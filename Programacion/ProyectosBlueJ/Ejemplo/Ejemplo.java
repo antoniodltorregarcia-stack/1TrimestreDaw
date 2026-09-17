@@ -18,5 +18,9 @@ public class Ejemplo {
             i++;
         }
         
+        /* Todo lo que este separado por . son objetos, en este caso System.out.println (En el sistema, fuera, 
+         * imprime), al contrario que todo lo que se encuentre entre parentesis son acciones como en el caso del
+         * while donde (i<10) esto es un comportamiento.
+         */
     }
 }
