@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Dise\u00F1ar\ una\ aplicaci\u00F3n\ que\ solicite\ al\ usuario\ un\ n\u00FAmero\r\n\ e\ indique\ si\ es\ par\ o\ impar\ (50)\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
