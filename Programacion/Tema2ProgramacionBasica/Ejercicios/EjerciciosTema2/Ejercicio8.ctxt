@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio8
+comment0.text=\r\n\ Pedir\ los\ coeficientes\ de\ una\ ecuaci\u00F3n\ de\ segundo\ grado\ y\ mostrar\ sus\ soluciones\ reales.\ Si\ no\ existen,\r\n\ habra\ que\ indicarlo.\ Hay\ que\ tener\ en\ cuenta\ que\ las\ soluciones\ de\ una\ ecuaci\u00F3n\ de\ \r\n\ segundo\ grado\ ax2+bx+c\=0\ son\:\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.8)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio9
+comment0.text=\r\n\ Escribir\ una\ aplicaci\u00F3n\ que\ indique\ cu\u00E1ntas\ cifras\ tiene\ un\ n\u00FAmero\ entero\ introducido\ por\ teclado,\ que\ estar\u00E1\r\n\ comprendido\ entre\ 0\ y\ 99.999.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.9)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment0.text=\r\n\ Solicitar\ dos\ n\u00FAmeros\ distintos\ y\ mostrar\ cu\u00E1l\ es\ el\ mayor\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.3)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

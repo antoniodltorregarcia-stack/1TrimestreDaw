@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment0.text=\r\n\ Pedir\ dos\ n\u00FAmeros\ y\ mostrarlos\ ordenados\ de\ forma\ decreciente.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.5)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

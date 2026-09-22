@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio7
+comment0.text=\r\n\ Pedir\ tres\ n\u00FAmeros\ y\ mostrar\ los\ ordenados\ de\ mayor\ a\ menor\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.7)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

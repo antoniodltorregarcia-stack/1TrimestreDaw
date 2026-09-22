@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ Implementar\ un\ programa\ que\ pida\ por\ teclado\ un\ n\u00FAmero\ decimal\ e\ indique\ sei\ es\ un\ n\u00FAmero\r\n\ casi-cero,\ que\ son\ aquellos,\ positivos\ o\ negativos,\ que\ se\ acercan\ a\ 0\ por\ menos\ de\ 1\ unidad,\r\n\ aunque\ curiesamente\ el\ 0\ no\ se\ considera\ un\ n\u00FAmero\ casi-cero.\ Ejemplos\ de\ n\u00FAmeros\ casi-cero\ \r\n\ son\:\ el\ 0`3,\ el\ -0`99\ o\ el\ 0`123;\ algunos\ n\u00FAmeros\ que\ no\ se\ consideran\ casi-cero\ son\:\r\n\ el\ 12`3,\ el\ 0\ o\ el\ -1.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.4)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

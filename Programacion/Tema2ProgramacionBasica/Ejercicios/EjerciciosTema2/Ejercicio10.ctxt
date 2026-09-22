@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio10
+comment0.text=\r\n\ Pedir\ una\ nota\ entera\ de\ 0\ a\ 10\ y\ mostrarla\ de\ la\ siguiente\ forma\:\ insuficiente\ (de\ 0\ a\ 4),\ \r\n\ suficiente\ (5),\ bien\ (6),\ notable\ (7\ y\ 8)\ y\ sobresaliente\ (9\ y\ 10).\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.10)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
