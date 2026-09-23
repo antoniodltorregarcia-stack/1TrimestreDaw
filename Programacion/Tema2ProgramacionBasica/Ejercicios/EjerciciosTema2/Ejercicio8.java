@@ -35,7 +35,7 @@ public class Ejercicio8 {
         if (discriminante < 0) {
             System.out.println("No existe una solución real");
         } else {
-            double raiz = discriminante;
+            double raiz = Math.sqrt(discriminante);
             
             double solucion1 = (-b + raiz) / (2 * a);
         

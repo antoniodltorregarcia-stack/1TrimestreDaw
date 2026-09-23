@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio11
+comment0.text=\r\n\ Idear\ un\ programa\ que\ solicite\ al\ usuario\ un\ n\u00FAmero\r\n\ comprendido\ entre\ 1\ y\ 7,\ correspondiente\ a\ un\ d\u00EDa\ \r\n\ de\ la\ semana.\ Se\ debe\ mostrar\ el\ nombre\ del\ d\u00EDa\ de\ la\r\n\ semana\ al\ que\ corresponde.\ Por\ ejemplo,\ el\ n\u00FAmero\ 1\ \r\n\ corresponde\ al\ \u201Clunes\u201D\ y\ el\ 6\ al\ \u201Cs\u00E1bado\u201D.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

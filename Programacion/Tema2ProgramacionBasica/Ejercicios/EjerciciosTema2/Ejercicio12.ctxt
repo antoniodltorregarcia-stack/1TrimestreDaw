@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment0.text=\r\n\ Pedir\ el\ d\u00EDa,\ mes\ y\ a\u00F1o\ de\ una\ fecha\ e\ indicar\ si\ la\ fecha\ es\ correcta.\ Hay\ que\ tener\ en\ cuenta\ que\ existen\r\n\ meses\ con\ 28,\ 30\ y\ 31\ d\u00EDas\ (no\ se\ consideraran\ los\ a\u00F1os\ bisiestos)\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
