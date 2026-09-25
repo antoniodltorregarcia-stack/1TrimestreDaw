@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio14
+comment0.text=\r\n\ Crear\ una\ aplicaci\u00F3n\ que\ solicite\ al\ usuario\ una\ fecha\ (d\u00EDa,\ mes\ y\ a\u00F1o)\ y\ muestre\ la\ fecha\ \r\n\ correspondiente\ al\ d\u00EDa\ siguiente.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.14)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

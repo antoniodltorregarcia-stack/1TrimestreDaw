@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio13
+comment0.text=\r\n\ Escribir\ un\ programa\ que\ pida\ una\ hora\ de\ la\ siguiente\ forma\:\ hora,\ minutos\ y\ segundos.\r\n\ El\ programa\ deber\u00E1\ mostrar\ qu\u00E9\ hora\ ser\u00E1\ un\ segundo\ m\u00E1s\ tarde.\ \r\n\ Por\ ejemplo\:\ hora\ actual\ [10\:41\:59]\ \u2192\ [10\:42\:00]\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.13)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
