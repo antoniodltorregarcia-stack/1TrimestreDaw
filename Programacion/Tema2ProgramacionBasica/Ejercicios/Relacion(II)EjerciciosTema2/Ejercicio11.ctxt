@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio11
+comment0.text=\r\n\ Escriba\ una\ aplicaci\u00F3n\ que\ solicite\ el\ usuario\ un\ n\u00FAmero\ comprendido\ entre\ 0\ y\ 9.999.\r\n\ La\ aplicaci\u00F3n\ tendr\u00E1\ que\ indicar\ si\ el\ n\u00FAmero\ introducido\ es\ capic\u00FAa.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
