@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment0.text=\r\n\ El\ DNI\ consta\ de\ un\ entero\ de\ 8\ d\u00EDgitos\ seguido\ de\ una\ letra\r\n\ que\ se\ obtiene\ a\ partir\ del\ n\u00FAmero\ de\ la\ siguiente\ forma\:\ Letra\ \=\ n\u00FAmero\ DNI\ m\u00F3dulo\ 22.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
