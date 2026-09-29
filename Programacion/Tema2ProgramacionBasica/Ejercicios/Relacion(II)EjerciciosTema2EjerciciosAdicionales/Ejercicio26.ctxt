@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio26
+comment0.text=\r\n\ Crea\ un\ programa\ llamado\ MostrarTiempo.java\ que\ tomando\ una\ cantidad\ por\ teclado\ de\ segundos\r\n\ (entero\ positivo)\ muestre\ la\ cantidad\ de\ minutos\ y\ segundos\ contenidos\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (EjercicioAdicional26)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio14
+comment0.text=\r\n\ Escribe\ un\ programa\ que\ solicite\ al\ usuario\ un\ n\u00FAmero\ comprendido\ entre\ 1\ y\ 99.\ \r\n\ El\ programa\ debe\ mostrarlo\ con\ letras.\ por\ ejemplo,\ para\ 56,\ se\ ver\u00E1\:\ \u00ABcincuenta\ y\ seis\u00BB.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.14)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

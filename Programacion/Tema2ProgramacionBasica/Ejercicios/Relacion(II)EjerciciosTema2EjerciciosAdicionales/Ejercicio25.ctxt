@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio25
+comment0.text=\r\n\ Escribe\ un\ programa\ que\ lea\ millas\ como\ valor\ double\ de\ la\ consola\ y\ lo\ convierta\ en\ km\ mostrando\ el\ resultado.\r\n\ La\ f\u00F3rmula\ para\ la\ conversi\u00F3n\ es\:\ 1\ milla\ \=\ 1.6\ km\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (EjercicioAdicional25)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

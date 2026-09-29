@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio24
+comment0.text=\r\n\ Dadas\ las\ edades\ y\ alturas\ de\ 5\ alumnos,\ mostrar\ la\ edad\ y\ laestatura\ media,\r\n\ la\ cantidad\ de\ alumnos\ mayores\ de\ 18\ a\u00F1os,\r\n\ y\ la\ cantidad\ dealumnos\ que\ miden\ m\u00E1s\ de\ 1.75.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional24)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

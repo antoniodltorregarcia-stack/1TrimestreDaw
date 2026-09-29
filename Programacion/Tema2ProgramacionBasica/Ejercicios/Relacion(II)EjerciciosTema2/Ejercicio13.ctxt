@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio13
+comment0.text=\r\n\ En\ una\ granja\ se\ compra\ diariamente\ una\ cantidad\ (comidaDiaria)\ de\ comida\ para\ los\ animales.\ \r\n\ El\ n\u00FAmero\ de\ animales\ que\ alimentar\ (todos\ de\ la\ misma\ especie)\ es\ numAnmales,\ y\ sabemos\ \r\n\ que\ cada\ animal\ come\ una\ media\ kilosPorAnimal.\ Dise\u00F1a\ un\ programa\ que\ solicite\ al\ usuario\ los\ valores\r\n\ anteriores\ y\ determine\ si\ disponemos\ de\ alimento\ suficiente\ para\ cada\ animal.\ En\ caso\ negativo,\r\n\ ha\ de\ calcular\ cu\u00E1l\ es\ la\ raci\u00F3n\ que\ corresponde\ a\ cada\ uno\ de\ los\ animales.\ \ \r\n\ \r\n\ Nota\:\ Evitar\ que\ la\ aplicaci\u00F3n\ realice\ divisiones\ por\ cero.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.13)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
