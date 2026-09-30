@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio17
+comment0.text=\r\n\ Realiza\ el\ \u201Cjuego\ de\ la\ suma\u201D,\ que\ consiste\ en\ que\ aparezcan\ dos\ n\u00FAmeros\ aleatorios\ (comprendidos\ entre\ 1\ y\ 99)\r\n\ que\ el\ usuario\ tiene\ que\ sumar.\ La\ aplicaci\u00F3n\ debe\ indicar\ si\ el\ resultado\ de\ la\ operaci\u00F3n\ es\ correcto\r\n\ o\ incorrecto.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.17)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

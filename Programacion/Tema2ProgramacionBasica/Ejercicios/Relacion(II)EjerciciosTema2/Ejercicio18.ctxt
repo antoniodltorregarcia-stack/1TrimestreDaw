@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio18
+comment0.text=\r\n\ Modifica\ la\ Actividad\ de\ aplicaci\u00F3n\ 2.17\ para\ que,\ adem\u00E1s\ de\ los\ dos\ n\u00FAmeros\ aleatorios,\r\n\ tambi\u00E9n\ aparezca\ la\ operaci\u00F3n\ que\ debe\ realizar\ el\ jugador\:\ suma.\ resta\ o\ multiplicaci\u00F3n.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.18)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

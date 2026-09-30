@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio19
+comment0.text=\r\n\ Crea\ una\ aplicaci\u00F3n\ que\ solicite\ al\ usuario\ cu\u00E1ntos\ grados\ tiene\ un\ \u00E1ngulo\ y\ muestre\r\n\ el\ equivalente\ en\ radianes.\ Si\ el\ \u00E1ngulo\ introducido\ por\ el\ usuario\ no\ se\ encuentra\ en\ el\ rango\ de\ 00\ a\ 3600.\ \r\n\ hay\ que\ transformarlo\ a\ dicho\ rango.\ \ \r\n\ \r\n\ Nota\:\ El\ operador\ m\u00F3dulo\ puede\ ayudarnos\ a\ convertir\ un\ \u00E1ngulo\ a\ su\ equivalente\ en\ el\ rango\r\n\ comprendido\ de\ 00\ a\ 3600.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.19)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

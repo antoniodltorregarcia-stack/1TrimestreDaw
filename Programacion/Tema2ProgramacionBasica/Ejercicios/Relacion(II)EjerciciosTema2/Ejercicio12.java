@@ -13,12 +13,20 @@ public class Ejercicio12 {
         
         System.out.println("Introduce los 8 digitos de tu dni y te dire la letra");
         
-        int n = sc.nextInt();
+        String longitud = sc.nextLine().trim(); 
         
-        if (n < 10000000 || n > 99999999) {
+        /*
+         * Primero lo recibimos como String para comprobar que el numero mida 8 digitos
+         */
+
+        
+        if (longitud.length() != 8) { //Arreglar las restricciones 
             System.out.println("El dni no tiene 8 digitos");
             return;
         }
+        
+        int n = Integer.parseInt(longitud); //Aqui lo transformamos de nuevo a int para poder trabajar con el
+        
         
         int nletra = n % 23;
         

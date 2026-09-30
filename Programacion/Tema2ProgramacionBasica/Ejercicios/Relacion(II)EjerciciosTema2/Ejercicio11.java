@@ -41,7 +41,7 @@ public class Ejercicio11 {
             } else System.out.println("El numero " + n + " no es capicúa");
             
             
-        } else {
+        } else {  
             
             int unid = n / 1000;
             int dec = (n/100) % 10;

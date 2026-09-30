@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio16
+comment0.text=\r\n\ Utiliza\ el\ operador\ ternario\ para\ calcular\ el\ valor\ absoluto\ de\ un\ n\u00FAmero\ que\ se\ solicita\r\n\ al\ usuario\ por\ teclado.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (2.16)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
