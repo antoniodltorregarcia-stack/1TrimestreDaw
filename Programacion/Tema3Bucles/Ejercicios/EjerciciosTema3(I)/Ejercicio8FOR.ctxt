@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio8FOR
+comment0.text=\r\n\ Pedir\ diez\ n\u00FAmeros\ enteros\ por\ teclado\ y\ mostrar\ la\ media.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.8)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment0.text=\r\n\ \ Desarrollar\ un\ juego\ que\ ayude\ a\ mejorar\ el\ c\u00E1lculo\ mental\ de\ la\ suma.\r\n\ \ El\ jugador\ tendr\u00E1\ que\ introducir\ la\ soluci\u00F3n\ de\ la\ suma\ de\ dos\ n\u00FAmeros\ aleatorios\r\n\ \ comprendidos\ entre\ 1\ y\ 100.\ Mientras\ la\ soluci\u00F3n\ introducida\ sea\ correcta,\ el\ juego\ continuar\u00E1.\r\n\ \ En\ caso\ contrario,\ el\ programa\ terminar\u00E1\ y\ mostrar\u00E1\ el\ n\u00FAmero\ de\ operaciones\ realizadas\ correctamente.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.5)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
