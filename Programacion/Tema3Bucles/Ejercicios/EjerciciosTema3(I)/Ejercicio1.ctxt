@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Dise\u00F1ar\ un\ programa\ que\ muestre,\ para\ cada\ n\u00FAmero\ introducido\ por\ teclado,\ si\ es\ par,\r\n\ si\ es\ positivo\ y\ su\ cuadrado.\ El\ proceso\ se\ repetir\u00E1\ hasta\ que\ el\ n\u00FAmero\ introducido\ sea\ 0.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

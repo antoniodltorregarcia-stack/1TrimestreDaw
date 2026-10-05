@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment0.text=\r\n\ \ Codificar\ el\ juego\ \u201Cel\ n\u00FAmero\ secreto\u201D,\ que\ consiste\ en\ acertar\ un\ n\u00FAmero\ entre\ 1\ y\ 100\ (generado\ aleatoriamente).\r\n\ \ Para\ ellos\ se\ introduce\ por\ teclado\ una\ serie\ de\ n\u00FAmeros,\ para\ los\ que\ se\ indica\:\ \u201Cmayor\u201D\ o\ \u201Cmenor\u201D,\r\n\ \ seg\u00FAn\ sea\ mayor\ o\ menor\ con\ respecto\ al\ n\u00FAmero\ secreto.\ El\ proceso\ termina\ cuando\ el\ usuario\ acierta\ o\ cuando\ se\ rinde\r\n\ \ (introduciendo\ un\ -1).\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.3)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

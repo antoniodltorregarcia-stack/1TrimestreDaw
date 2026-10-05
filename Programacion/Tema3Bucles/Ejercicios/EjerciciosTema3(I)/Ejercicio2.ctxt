@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ \ Implementar\ una\ aplicaci\u00F3n\ para\ calcular\ datos\ estad\u00EDsticos\ de\ las\ edades\ de\ los\ alumnos\ de\ un\ centro\ educativo.\r\n\ \ se\ introducir\u00E1n\ datos\ hasta\ que\ uno\ de\ ellos\ sea\ negativo,\ y\ se\ mostrar\u00E1\:\ la\ suma\ de\ todas\ las\ edades\ introducidas,\r\n\ \ la\ media,\ el\ n\u00FAmero\ de\ alumnos\ y\ cu\u00E1ntos\ son\ mayores\ de\ edad.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.2)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

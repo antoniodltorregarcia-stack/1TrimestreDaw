@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ Un\ centro\ de\ investigaci\u00F3n\ de\ la\ flora\ urbana\ necesita\ una\ aplicaci\u00F3n\ que\ muestre\ cu\u00E1l\ es\ \u00E1rbol\ m\u00E1s\ alto.\r\n\ Para\ ello\ se\ introducir\u00E1\ por\ teclado\ la\ altura\ (en\ cent\u00EDmetros)\ de\ cada\ \u00E1rbol\r\n\ (terminando\ la\ introduciendo\ de\ datos\ cuando\ se\ utilice\ -1\ como\ altura).\r\n\ Los\ \u00E1rboles\ se\ identifican\ mediante\ etiquetas\ con\ n\u00FAmeros\ correlativos,\ comenzando\ en\ 0.\r\n\ Dise\u00F1ar\ una\ aplicaci\u00F3n\ que\ resuelva\ el\ problema\ planteado.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.4)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
