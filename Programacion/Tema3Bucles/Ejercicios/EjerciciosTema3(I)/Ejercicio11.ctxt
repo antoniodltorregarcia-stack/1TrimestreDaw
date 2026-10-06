@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio11
+comment0.text=\r\n\ Pedir\ un\ n\u00FAmero\ y\ calcular\ su\ factorial.\ Por\ ejemplo,\ el\ factorial\ de\ 5\ se\ denota\ 5\!\ \r\n\ Y\ es\ igual\ a\ 5\ x\ 4\ x\ 3\ x\ 2\ x\ 1\ \=\ 120.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio15
+comment0.text=\r\n\ Pedir\ por\ consola\ un\ n\u00FAmero\ n\ y\ dibujar\ un\ tri\u00E1ngulo\ rect\u00E1ngulo\ de\ n\ elementos\ de\ lado\ utilizando\ para\ ello\ asteriscos\ (*).\r\n\ Por\ ejemplo,\ para\ n\ \=\ 4\r\n\ ****\r\n\ ***\r\n\ **\r\n\ *\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.15)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

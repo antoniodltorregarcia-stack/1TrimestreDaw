@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio9
+comment0.text=\r\n\ Implementar\ una\ aplicaci\u00F3n\ que\ pida\ al\ usuario\ un\ n\u00FAmero\ comprendido\ entre\ 1\ y\ 10.\r\n\ Hay\ que\ mostrar\ la\ tabla\ de\ multiplicar\ de\ dicho\ n\u00FAmero,\ asegur\u00E1ndose\ de\ que\ el\ n\u00FAmero\r\n\ introducido\ se\ encuentra\ en\ el\ rango\ establecido.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.9)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

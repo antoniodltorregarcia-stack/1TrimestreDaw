@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio10
+comment0.text=\r\n\ Dise\u00F1ar\ un\ programa\ que\ muestre\ la\ suma\ de\ los\ 10\ primeros\ impares.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.10)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

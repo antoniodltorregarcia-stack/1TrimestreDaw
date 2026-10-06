@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment0.text=\r\n\ Pedir\ 5\ calificaciones\ de\ alumnos\ y\ decir\ al\ final\ si\ hay\ alg\u00FAn\ suspenso.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

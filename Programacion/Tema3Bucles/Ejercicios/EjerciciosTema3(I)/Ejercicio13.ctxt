@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio13
+comment0.text=\r\n\ Dadas\ 6\ notas,\ escribir\ la\ cantidad\ de\ alumnos\ aprobados,\ condicionados\ (nota\ igual\ a\ cuatro)\ y\ suspensos.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
