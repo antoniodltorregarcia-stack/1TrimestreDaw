@@ -66,6 +66,12 @@ public class Ejercicio14 {
             anio++;
         }
         
-        System.out.println("Fecha + 1 dia = " + dia + "/" + mes + "/" + anio);
+        if (dia < 10 && mes < 10) {
+            System.out.println("Fecha + 1 dia  = 0" + dia + "/0" + mes + "/" + anio);
+        } else if (dia < 10) {
+            System.out.println("Fecha + 1 dia  = 0" + dia + "/" + mes + "/" + anio);
+        } else System.out.println("Fecha + 1 dia  = " + dia + "/" + mes + "/" + anio);
+        
+        
     }
 }

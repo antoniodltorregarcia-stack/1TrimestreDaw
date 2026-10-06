@@ -21,11 +21,16 @@ public class Ejercicio4 {
         
         String resultado;
         
-        if (n < 0 && n > -1 ) {
-            resultado = "Es un número casi-cero";
-        } else if (n > 0 && n < 1) {
+        
+        
+        
+        if (n > -1 && n < 1 ) {
             resultado = "Es un número casi-cero";
         }else {
+            resultado = "No es considerado un número casi-cero";
+        }
+        
+        if (n == 0) {
             resultado = "No es considerado un número casi-cero";
         }
         
