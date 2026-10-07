@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Dadosv1
+comment0.text=\r\n\ Versi\u00F3n\ b\u00E1sica\ del\ juego\ de\ los\ dados,\ con\ datos\ manuales...\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (1.2)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
