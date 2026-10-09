@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment0.text=\r\n\ Modifica\ la\ Actividad\ de\ aplicaci\u00F3n\ 3.11\ para\ que\ el\ usuario\ pueda\ introducir\ un\ n\u00FAmero\ en\ binario\ \r\n\ y\ el\ programa\ muestre\ su\ conversi\u00F3n\ a\ decimal.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

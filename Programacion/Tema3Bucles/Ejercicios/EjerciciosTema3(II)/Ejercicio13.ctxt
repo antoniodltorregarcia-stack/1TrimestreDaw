@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio13
+comment0.text=\r\n\ Escribe\ un\ programa\ que\ incremente\ la\ hora\ de\ un\ reloj.\ Se\ pedir\u00E1n\ por\ teclado\ la\ hora,\ minutos\ y\ segundos,\r\n\ asi\ como\ cuantos\ segundos\ se\ desea\ incrementar\ la\ hora\ ntrodu\ cida.\ La\ aplicaci\u00F3n\ mostrara\ la\ nueva\ hora.\r\n\ Por\ ejemplo,\ si\ las\ se\ incrementan\ en\ 10\ segundos,\ resultan\ las\ 14\:00\:01\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.13)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

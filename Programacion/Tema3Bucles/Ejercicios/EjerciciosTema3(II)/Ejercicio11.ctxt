@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio11
+comment0.text=\r\n\ Realiza\ un\ programa\ que\ convierta\ un\ n\u00FAmero\ decimal\ en\ su\ representaci\u00F3n\ binaria.\r\n\ Hay\ que\ tener\ en\ cuenta\ que\ desconocemos\ cuantas\ cifras\ tiene\ el\ n\u00FAmero\ que\ introduce\ el\ usuario.\r\n\ Por\ simplicidad,\ iremos\ mostrando\ el\ n\u00FAmero\ binario\ con\ un\ d\u00EDgito\ por\ l\u00EDnea.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

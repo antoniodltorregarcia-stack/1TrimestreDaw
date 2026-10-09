@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio14
+comment0.text=\r\n\ Realiza\ un\ programa\ que\ nos\ pida\ un\ minero\ n.\ y\ nos\ diga\ cu\u00E1ntos\ n\u00FAmeros\ hay\ entre\ I\ y\ n\ que\ sean\ primos.\r\n\ Un\ n\u00FAmero\ primo\ es\ aquel\ que\ solo\ es\ divisible\ por\ 1\ y\ por\ \u00E9l\ mis\u2014mo.\ Veamos\ un\ ejemplo\ para\ n\ \=\ 8\:\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.14)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
