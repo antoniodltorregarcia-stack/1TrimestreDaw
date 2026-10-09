@@ -28,7 +28,7 @@ public class Dadosv3_vsPc {
                 System.out.print((int)(Math.random()*6)+1 + " ");
                 Thread.sleep(200);
             }
-            System.out.println();
+            System.out.println("");
             
             System.out.println("Jugador 1, Dado = " + dado1);
             
@@ -50,7 +50,7 @@ public class Dadosv3_vsPc {
                 System.out.print((int)(Math.random()*6)+1 + " ");
                 Thread.sleep(200);
             }
-            System.out.println();
+            System.out.println("");
             
             int dado2 = (int)(Math.random( ) * 6) + 1;
             System.out.println("Ordenador, Dado = " + dado2);

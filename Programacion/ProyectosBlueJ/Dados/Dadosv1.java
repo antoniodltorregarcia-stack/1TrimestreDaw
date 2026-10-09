@@ -75,7 +75,7 @@ public class Dadosv1 {
             } else {
                 System.out.println("Jugador 2 Gana");
             }
-        } else if (seises1 == seises2 || seises1 != seises2 && puntosJ1 != puntosJ2) {
+        } else if (puntosJ1 != puntosJ2) {
             if (puntosJ1 > puntosJ2) {
                 System.out.println("Jugador 1 Gana, numero total de puntos = " + puntosJ1);
             } else {
