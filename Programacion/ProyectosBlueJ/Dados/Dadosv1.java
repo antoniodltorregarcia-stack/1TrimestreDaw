@@ -17,8 +17,7 @@ public class Dadosv1 {
         
         int seises1 = 0;
         int seises2 = 0;
-        
-        
+
         int dado1 = sc.nextInt();
         
         if (dado1 < 1 || dado1 > 6) {
@@ -28,7 +27,7 @@ public class Dadosv1 {
             seises1++;
         }
         
-        int puntosJ1 =+ dado1;
+        int puntosJ1 = dado1;
         
         System.out.println("Introduce el dado del jugador 2");
         

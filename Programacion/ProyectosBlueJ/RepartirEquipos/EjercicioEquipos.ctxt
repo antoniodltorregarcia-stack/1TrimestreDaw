@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjercicioEquipos
+comment0.text=\r\n\ Introduce\ valores\ de\ edades\ y\ ve\ a\u00F1adiendolo\ a\ 4\ equipos\ distintos\ y\ que\ este\ variadas\ las\ edades\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (EjercicioProfesor)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

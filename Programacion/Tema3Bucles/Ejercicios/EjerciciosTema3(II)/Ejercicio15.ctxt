@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio15
+comment0.text=\r\n\ Dise\u00F1a\ una\ aplicaci\u00F3n\ que\ dibuje\ el\ tri\u00E1ngulo\ de\ pascal,\ para\ n\ filas.\ Numerando\ las\ filas\ V\ elementos\ desde\ O.\r\n\ la\ pr\u00F3xia\ para\ obtener\ el\ m\u2022\u00E9simo\ elemento\ de\ la\ n\u2022\u00E9sima\ fila\ es\:\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.15)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
