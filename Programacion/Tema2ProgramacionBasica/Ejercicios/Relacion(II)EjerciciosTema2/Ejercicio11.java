@@ -31,7 +31,7 @@ public class Ejercicio11 {
                 System.out.println("El numero " + n + " es capicúa");
             } else System.out.println("El numero " + n + " no es capicúa");
             
-        } else if (n >= 100 && n < 999) {
+        } else if (n >= 100 && n <= 999) {
             
             int unid = n / 100;
             int cent = n % 10;
@@ -54,7 +54,17 @@ public class Ejercicio11 {
             } else System.out.println("El numero " + n + " no es capicúa");
             
         }
-        
+        /*
+         * int numeroAux = n;
+         * 
+         * mill = n % 10;
+         * numeroAux /= 10;
+         * cent = numeroAux % 10;
+         * numeroAux /= 10;
+         * dec = numeroAux % 10;
+         * numeroAux /= 10;
+         * unid = n / 1000
+         */
         //Revisar Ejercicio y tomar anotaciones calculo de unidades
     }
 }

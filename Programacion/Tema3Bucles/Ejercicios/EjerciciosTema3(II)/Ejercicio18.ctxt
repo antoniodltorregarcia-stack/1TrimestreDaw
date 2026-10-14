@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio18
+comment0.text=\r\n\ De\ forma\ similar\ a\ la\ Actividad\ de\ aplicaci\u00F3n\ 3.17.\ implementa\ 1x1\ algoritmo\ que\ calcule\ el\ m\u00EDnimo\ com\u00FAn\ m\u00FAltiplo\ de\ dos\ n\u00FAmeros\ dados.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.18)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio17
+comment0.text=\r\n\ para\ dos\ n\u00FAmeros\ dadas,\ a\ y\ b,\ es\ posible\ buscar\ el\ m\u00E1ximo\ com\u00FAn\ divisor\ (el\ n\u00FAmero\ m\u00E1s\ grande\ que\ divide\ a\ ambos\r\n\ mediante\ un\ algoritmo\ ineficiente\ pero\ sencillo\:\ desde\ el\ menor\ de\ a\ y\ b,\ ir\ buscando,\ de\ forma\ decreciente,\r\n\ el\ primer\ n\u00FAmero\ que\ divide\ a\ ambos\ simult\u00E1neamente.\ Realiza\ un\ programa\ que\ calcule\ elm\u00E1ximo\ com\u00FAn\ divisor\ de\ dos\ n\u00FAmeros\r\n\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.17)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
