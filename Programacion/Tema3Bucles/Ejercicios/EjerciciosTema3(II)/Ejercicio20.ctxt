@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio20
+comment0.text=\r\n\ Escribe\ un\ programa\ que\ solicite\ al\ usuario\ las\ distintas\ cantidades\ de\ dinero\ de\ las\ que\ dispone.\r\n\ Por\ ejemplo\:\ lacantidad\ de\ dinero\ que\ tiene\ en\ el\ banco,\ en\ una\ hucha,\ en\ un\ caj\u00F3n\ V\ en\ IOS\ bolsillos.\r\n\ La\ aplicaci\u00F3n\ mostrar\u00E1\ lasuma\ total\ de\ dinero\ de\ la\ que\ dispone\ el\ usuario.La\ manera\ de\ especificar\ que\ no\ se\ desea\r\n\ introducir\ m\u00E1s\ cantidades\ es\ mediante\ el\ cero\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.20)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

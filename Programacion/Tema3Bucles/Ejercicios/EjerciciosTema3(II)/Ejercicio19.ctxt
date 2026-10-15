@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio19
+comment0.text=\r\n\ Calcula\ la\ ra\u00EDz\ cuadrada\ de\ un\ n\u00FAmero\ natural\ mediante\ aproximaciones.\ En\ el\ caso\ de\ que\ no\ sea\ exacta,muestra\ el\ resto.\r\n\ Por\ ejemplo,\ para\ calcular\ la\ ra\u00EDz\ cuadrada\ de\ 23.\ probamos\ 12\ 1,\ 22\ 4,\ 32\ 9,\ 42\ 16,\ 5225\ (nos\ pasamos),\r\n\ resultando\ 4\ la\ ra\u00EDz\ cuadrada\ de\ 23\ con\ un\ resto\ (23\ -\ 16)\ de\ 7.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.19)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
