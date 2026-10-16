@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Triaje
+comment0.text=\r\n\ \ \ \ //Primero\:\ reglas\r\n\ \ \ \ //\ Rojo\:\ gravedad\ inminente\ de\ compromiso\ vital\:\ hemorragia,\ h\ interna,\ ictus,\ cv\:\ arritmia,\ fc\ baja,\ fc\ alta,\ fr\ baja\ o\ alta\r\n\ \ \ \ //\ Amarillo\:\ Gravedad\ pero\ compromiso\ vital\ a\ futuro\:\ cancer?,\ neumonia?,\ infeccion\ generalizada\r\n\ \ \ \ //\ Verde\:\ No\ hay\ compromiso\ vital\ a\ presente\ o\ futuro\r\n\ \ \ \ \r\n\ \ \ \ //entrada\r\n\ \ \ \ //\ \u00BFque\ pedimos\ al\ medico?\ hemorragia(boolean),\ interna(boolean).\ ictus(boolean),\ arritmia(boolean)\r\n\ \ \ \ //\ fcbaja\ es\ cuando\ fc<40,\ fcalta\ es\ fc>110\ en\ reposo,\ frbaja\ est\ por\ debajo\ de\ 10/minuto,\ fralta\ es\ fr>20\r\n\ \ \ \ //\ tumor(boolean),\ neumonia(boolean),\ igeneral(boolean)\r\n\ \ \ \ //Memoria\r\n\ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ //Proceso\r\n\ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ \r\n\ \ \ \ //salida\r\n\r\n\ \ \ \ @author\ (Tony)\r\n\ \ \ \ @version\ (1.0)\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
