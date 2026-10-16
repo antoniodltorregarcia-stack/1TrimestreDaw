@@ -16,27 +16,27 @@ public class Ejercicio20 {
         int n = 1;
         
         double cantidadTotal = 0;
+        String texto = "uwu";
         
-        while (true) {
+        while (!texto.equals("0")) {
             
             System.out.println("Introduce donde tienes el dinero, introduce (0) si quieres cerrar el programa...");
-            String texto = sc.next();
+            texto = sc.next();
             
-            if (texto.equals("0")) {
-                break;
+            if (!texto.equals("0")) {
+                char ultimaLetra = texto.charAt(texto.length() - 1);
+            
+                if (ultimaLetra == 'a') {
+                    System.out.println("Introduce cuanto dinero tienes en la " + texto);
+                } else System.out.println("Introduce cuanto dinero tienes en el " + texto);
+                
+                double dinero = sc.nextDouble();
+                
+                
+                cantidadTotal += dinero;
+                System.out.println("");
             }
             
-            char ultimaLetra = texto.charAt(texto.length() - 1);
-            
-            if (ultimaLetra == 'a') {
-                System.out.println("Introduce cuanto dinero tienes en la " + texto);
-            } else System.out.println("Introduce cuanto dinero tienes en el " + texto);
-            
-            double dinero = sc.nextDouble();
-            
-            
-            cantidadTotal += dinero;
-            System.out.println("");
             
         }
         

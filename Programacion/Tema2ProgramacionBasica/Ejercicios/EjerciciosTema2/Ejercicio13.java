@@ -27,28 +27,29 @@ public class Ejercicio13 {
         
         if (hora < 0 || hora > 24 || mins < 0 || mins > 59 || seg < 0 || seg > 59) {
             System.out.println("Formato no válido");
-            return;
+        } else {
+            System.out.println("Hora introducida: " + hora + "/" + mins + "/" + seg);
+        
+            seg++;
+            
+            if (seg == 60) {
+                seg = 0;
+                mins++;
+            }
+            
+            if (mins == 60) {
+                mins = 0;
+                hora++;
+            }
+            
+            if (hora == 24) {
+                hora = 0;
+            }
+            
+            
+            System.out.println("Hora + 1 segundo: " + hora + "/" + mins + "/" + seg);
         }
         
-        System.out.println("Hora introducida: " + hora + "/" + mins + "/" + seg);
         
-        seg++;
-        
-        if (seg == 60) {
-            seg = 0;
-            mins++;
-        }
-        
-        if (mins == 60) {
-            mins = 0;
-            hora++;
-        }
-        
-        if (hora == 24) {
-            hora = 0;
-        }
-        
-        
-        System.out.println("Hora + 1 segundo: " + hora + "/" + mins + "/" + seg);
     }
 }

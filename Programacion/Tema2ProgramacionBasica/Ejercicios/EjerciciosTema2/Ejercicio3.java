@@ -18,15 +18,10 @@ public class Ejercicio3 {
         
         int n2 = sc.nextInt();
         
-        if (n1 == n2) {
-            System.out.println("Los numeros no pueden ser iguales");
-            return;
-        }
-        
         if (n1 > n2) {
             System.out.println(n1 + " Es mayor que " + n2);
-        } else  {
+        } else if (n1 < n2) {
             System.out.println(n2 + " Es mayor que " + n1);
-        }
+        } else System.out.println("Los numeros no pueden ser iguales");
     }
 }

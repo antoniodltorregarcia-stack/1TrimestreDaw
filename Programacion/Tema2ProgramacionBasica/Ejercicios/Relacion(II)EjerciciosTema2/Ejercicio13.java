@@ -28,18 +28,21 @@ public class Ejercicio13 {
         
         int kilosPorAnimal = sc.nextInt();
         
-        if (numAnmales <= 0 || kilosPorAnimal <= 0 || comidaDiaria <= 0) {
-            System.out.println("No puede existir un dato menor o igual a 0");
-            return;
-        }
+        if (numAnmales >= 0 || kilosPorAnimal >= 0 || comidaDiaria >= 0) {
+            
+            int comidaNecesaria = numAnmales * kilosPorAnimal;
         
-        int comidaNecesaria = numAnmales * kilosPorAnimal;
-        
-        if (comidaNecesaria < comidaDiaria) {
-            System.out.println("Disponemos de la comida para alimentar a todos los animales");
+            if (comidaNecesaria <= comidaDiaria) {
+                System.out.println("Disponemos de la comida para alimentar a todos los animales");
+            } else {
+                System.out.println("No disponemos de la comida necesaria, necesitamos una cantidad de: " + comidaNecesaria);
+            }
+            
         } else {
-            System.out.println("No disponemos de la comida necesaria, necesitamos una cantidad de: " + comidaNecesaria);
+            System.out.println("No puede existir un dato menor o igual a 0");
         }
+        
+        
         
     }
     

@@ -15,11 +15,6 @@ public class Ejercicio11 {
         
         int n = sc.nextInt();
         
-        if (n < 0 || n > 9999) {
-            System.out.println("Número fuera de rango");
-            return;
-        }
-        
         if (n < 10) {
             System.out.println("Todos los números con una cifra son capicúa");
         } else if (n >= 10 && n <= 99) {
@@ -41,7 +36,7 @@ public class Ejercicio11 {
             } else System.out.println("El numero " + n + " no es capicúa");
             
             
-        } else {  
+        } else if (n > 999 && n < 10000) {  
             
             int unid = n / 1000;
             int dec = (n/100) % 10;
@@ -53,7 +48,8 @@ public class Ejercicio11 {
                 System.out.println("El numero " + n + " es capicúa");
             } else System.out.println("El numero " + n + " no es capicúa");
             
-        }
+        } else System.out.println("Número fuera de rango");
+        
         /*
          * int numeroAux = n;
          * 

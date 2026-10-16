@@ -17,22 +17,25 @@ public class Ejercicio10 {
         
         String nota;
         
-        
-        if (n >= 0 && n <= 4) { //Establecemos un mínimo para la excepciones a los datos pedidos
-            nota = "Suspenso";
-        } else if (n == 5) {
-            nota = "Suficiente";
-        } else if (n == 6) { //Valor único
-            nota = "Bien";
-        } else if (n <= 8) { //No es necesario un valor mínimo porque si fuera 6 el programa finalizaría en la anterior linea
-            nota = "Notable";
-        } else if (n <= 10) { //Lo mismo con el 8
-            nota = "Sobresaliente";
+        if (n >= 0 && n <= 10) {
+            
+            if (n >= 0 && n <= 4) { //Establecemos un mínimo para la excepciones a los datos pedidos
+                nota = "Suspenso";
+            } else if (n == 5) {
+                nota = "Suficiente";
+            } else if (n == 6) { //Valor único
+                nota = "Bien";
+            } else if (n <= 8) { //No es necesario un valor mínimo porque si fuera 6 el programa finalizaría en la anterior linea
+                nota = "Notable";
+            } else { //Lo mismo con el 8
+                nota = "Sobresaliente";
+            }
+            
+            System.out.println("Tu nota es un: " + nota);
         } else { //Todo numero < 0 && > 10
             System.out.println("Calificación no valida");
-            return; //Termina aquí
         }
         
-        System.out.println("Tu nota es un: " + nota);
+        
     }
 }

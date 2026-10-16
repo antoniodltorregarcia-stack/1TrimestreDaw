@@ -20,11 +20,10 @@ public class Ejercicio15 {
         
         int alt = sc.nextInt();
         
-        if (base < 0 || alt < 0) {
-            System.out.println("No es lógico usar número negativos");
-            return;
-        }
+        if (base > 0 || alt > 0) {
+            System.out.println("El area del triangulo es " + base * alt / 2);
+        } else System.out.println("No es lógico usar número negativos");
         
-        System.out.println("El area del triangulo es " + base * alt / 2);
+        
     }
 }
