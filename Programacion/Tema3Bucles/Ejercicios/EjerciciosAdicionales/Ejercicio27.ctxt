@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio27
+comment0.text=\r\n\ \ Programa\ un\ algoritmo\ que\ solicite\ un\ n\u00FAmero\ iNumLados\ entre\ 1\ y\ 10\ \r\n\ \ y\ pinte\ en\ la\ pantalla\ con\ caracteres\ *\ un\ cuadrado\ de\ lado\ iNumLados.\r\n\ \ Por\ ejmplo,\ para\ iNumLados\ \=\ 4\r\n\ \ \r\n\ \ \ \ \ \ ****\r\n\ \ \ \ \ \ ****\r\n\ \ \ \ \ \ ****\r\n\ \ \ \ \ \ ****\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional27)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

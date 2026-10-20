@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio28
+comment0.text=\r\n\ \ Crea\ un\ programa\ equivalente\ al\ del\ ejercicio\ 27\ pero\ teniendo\ en\ cuenta\ que\ ahora\r\n\ \ el\ cuadrado\ dibujado\ en\ pantalla\ tiene\ que\ quedar\ hueco\:\r\n\ \ Introduzca\ longitud\ del\ lado\:\ 6\r\n\ \ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional28)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

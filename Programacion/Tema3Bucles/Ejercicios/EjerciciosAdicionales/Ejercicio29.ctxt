@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio29
+comment0.text=\r\n\ \ Realiza\ una\ variaci\u00F3n\ a\ partir\ del\ ejercicio\ 28.\r\n\ \ En\ este\ casoqueremos\ convertir\ el\ cuadrado\ hueco\ en\ una\ O\ digital\:\r\n\ \ Introduzca\ tama\u00F1o\ del\ lado\:\ 6\r\n\ \ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional20)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

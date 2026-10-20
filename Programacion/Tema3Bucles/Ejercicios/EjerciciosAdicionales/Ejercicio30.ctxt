@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio30
+comment0.text=\r\n\ Programa\ un\ algoritmo\ en\ Java\ que\ realice\ un\ rombo\ mediante\ el\ s\u00EDmbolo\ *\r\n\ cuyo\ lado\ haya\ sido\ proporcionado\ previamente\ por\ el\ usuario.\r\n\ El\ resultado\ ser\u00EDa\ aproximadamente\:\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional30)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

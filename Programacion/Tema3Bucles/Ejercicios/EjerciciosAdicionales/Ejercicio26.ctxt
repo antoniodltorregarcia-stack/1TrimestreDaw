@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio26
+comment0.text=\r\n\ \ Realiza\ un\ programa\ que\ solicite\ al\ usuario\ un\ n\u00FAmero\ N\ mayor\ que\ 1\ y\ \r\n\ \ posteriormente\ calcule\ los\ n\u00FAmeros\ primos\ entre\ 1\ a\ N.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional26)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
