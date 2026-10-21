@@ -15,7 +15,7 @@ public class Ejercicio2 {
         int n;
         int cantidad = 0;
         int adulto = 0;
-        int sumaEdades = 0;
+        double sumaEdades = 0;
         System.out.println("Un número negativo cerrara el programa");
         
         do {
@@ -23,20 +23,20 @@ public class Ejercicio2 {
             
             n = sc.nextInt();
             
-            if (n < 0) {
-                break;
+            if (n > 0) {
+                sumaEdades += n;
+            
+                if (n >= 18) {
+                    adulto++;
+                }
+                
+                cantidad++;
             }
             
-            sumaEdades += n;
             
-            if (n >= 18) {
-                adulto++;
-            }
-            
-            cantidad++;
-        } while (n >= 0);
+        } while (n > 0);
         
-        double media = (double)sumaEdades / cantidad;
+        double media = sumaEdades / cantidad;
         
         System.out.println("Suma de las edades: " + sumaEdades);
         System.out.println("Media de las edades: " + media);
