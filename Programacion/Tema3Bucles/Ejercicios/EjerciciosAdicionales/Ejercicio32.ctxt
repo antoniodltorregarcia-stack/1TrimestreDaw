@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio32
+comment0.text=\r\n\ Realiza\ un\ programa\ que\ realice\ la\ conversi\u00F3n\ de\ n\u00FAmeros\ ennotaci\u00F3n\ decimal\ a\ su\ equivalente\ en\ notaci\u00F3n\ hexadecimal,\r\n\ sin\ utilizarfunciones\ o\ m\u00E9todos\ de\ librer\u00EDas,\ s\u00F3lo\ con\ condicionales,\ bucles\ y\ sentenciasb\u00E1sicas.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Adicional32)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
