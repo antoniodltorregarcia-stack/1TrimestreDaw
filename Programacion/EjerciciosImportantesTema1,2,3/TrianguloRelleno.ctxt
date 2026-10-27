@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TrianguloRelleno
+comment0.text=\r\n\ Solicita\ al\ usuario\ un\ n\u00FAmero\ n\ y\ dibuja\ un\ tri\u00E1ngulo\ de\ base\ y\ altura\ n.\ de\ la\ forma\ (para\ n\ igual\ a\ 4)\:\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (3.16)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Ejercicio2 {
+	public static void main (String[]args) {
+		Scanner sc = new Scanner (System.in);
+		
+		Sout("dame un numero");
+		int n = sc.nextInt();
+		
+		Sout("Dame un minimo");
+		int min = sc.nextInt();
+		
+		Sout("Dame un max");
+		int max = sc.nextInt();
+		
+		for (int i = min; i <= max; i++) {
+			
+			if ( i % n == 0) {
+				System.out.println(i);
+			}
+		}
+	}
+}
