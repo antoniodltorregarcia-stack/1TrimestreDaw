@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ Dise\u00F1a\ y\ prueba\ una\ funci\u00F3n\ que\ devuelva\ el\ n\u00FAmero\ mayor\ de\ dos\ parametros.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio4)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=int\ mayor(int,\ int)
+numComments=3

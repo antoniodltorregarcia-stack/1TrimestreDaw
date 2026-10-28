@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment0.text=\r\n\ Crea\ un\ programa\ en\ el\ que\ mediante\ una\ funcion\ se\ calcule\ el\ area\ o\ el\ volumen\ de\ un\ cilindro\r\n\ (a\ peticion\ del\ usuario).\r\n\ \r\n\ area\ total\ cilindro\ -->\ A\ \=\ 2\ *\ pi\ *\ r^2\ +\ 2\ *\ pi\ *\ h\ (r\ \=\ radio,\ h\ \=\ altura);\r\n\ volumen\ cilindro\ -->\ V\ \=\ pi\ *\ r^2\ *\ h\ (r\ \=\ de\ la\ base,\ h\ \=\ altura);\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio3)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r\ h
+comment2.target=double\ area(double,\ double)
+comment3.params=r\ h
+comment3.target=double\ volumen(double,\ double)
+numComments=4

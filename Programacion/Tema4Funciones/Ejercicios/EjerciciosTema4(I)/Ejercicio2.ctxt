@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Crea\ un\ programa\ que\ imprima\ los\ numeros\ comprendidos\ entre\ a\ y\ b.\r\n\ Los\ par\u00E1metros\ a\ y\ b\ son\ introducidos\ por\ usuario\ previamente.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio2)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=void\ parametros(int,\ int)
+numComments=3

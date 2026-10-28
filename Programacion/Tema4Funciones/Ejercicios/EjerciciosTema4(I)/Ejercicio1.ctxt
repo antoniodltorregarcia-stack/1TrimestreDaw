@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Crea\ una\ aplicaci\u00F3n\ que\ mediante\ una\ funcion\ eco()\ imprima\ por\ consola\ un\ n\u00FAmero\ n\ de\ ecos,\r\n\ donde\ n\ es\ introducido\ por\ el\ usuario.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ eco(int)
+numComments=3

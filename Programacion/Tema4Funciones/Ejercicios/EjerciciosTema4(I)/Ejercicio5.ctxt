@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment0.text=\r\n\ Crea\ una\ funci\u00F3n\ para\ determinar\ si\ un\ car\u00E1cter\ pasado\ por\ par\u00E1metro\ es\ una\ vocal\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio5)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=letra
+comment2.target=java.lang.String\ letraVocal(char)
+numComments=3
