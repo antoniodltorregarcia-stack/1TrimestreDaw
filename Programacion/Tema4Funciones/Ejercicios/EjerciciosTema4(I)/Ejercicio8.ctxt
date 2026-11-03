@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio8
+comment0.text=\r\n\ \ Realiza\ una\ funci\u00F3n\ calculadora\ que\ tenga\ tres\ par\u00E1metros,\ dosn\u00FAmeros\ para\ operar\r\n\ \ y\ un\ byte\ para\ codificar\ la\ operaci\u00F3n\ a\ realizar.\ Lasoperaciones\ ser\u00E1n\:\r\n\ \ 1\ suma,\ 2\ resta,\ 3\ multiplicaci\u00F3n\ y\ 4\ divisi\u00F3n.\ \r\n\ \ Controla\ en\ elcaso\ de\ la\ divisi\u00F3n\ que\ el\ divisor\ no\ sea\ cero.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio8)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ calculadora()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EjemploDibujar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EjemploDibujar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sc\ msg
+comment2.target=int\ leerEntero(java.util.Scanner,\ java.lang.String)
+comment3.params=sc\ msg
+comment3.target=java.lang.String\ leerTexto(java.util.Scanner,\ java.lang.String)
+comment4.params=alto\ ancho\ texto
+comment4.target=java.lang.String\ dibujaRectangulo(int,\ int,\ java.lang.String)
+comment5.params=ancho\ texto
+comment5.target=java.lang.String\ dibujaLinea(int,\ java.lang.String)
+numComments=6

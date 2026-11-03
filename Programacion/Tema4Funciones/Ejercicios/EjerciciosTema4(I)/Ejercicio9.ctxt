@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio9
+comment0.text=\r\n\ Realiza\ una\ funci\u00F3n\ (dos\ veces)\ que\ calcule\ mediante\ recursividad\ y\ \r\n\ tambi\u00E9n\ mediante\ iteraci\u00F3n,\ la\ potencia\ de\ una\ base\ elevada\ a\ un\ determinado\ exponente\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio9)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ exp
+comment2.target=int\ recursivo(int,\ int)
+numComments=3

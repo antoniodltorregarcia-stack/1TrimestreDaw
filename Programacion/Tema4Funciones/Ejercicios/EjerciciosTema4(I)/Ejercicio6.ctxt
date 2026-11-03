@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio6
+comment0.text=\r\n\ \ Programa\ la\ funci\u00F3n\ primo,\ que\ recibiendo\ un\ n\u00FAmero\ entero,\ \r\n\ \ devuelva\ un\ booleano\ que\ sea\ true\ cuando\ el\ par\u00E1metro\ de\ entrada\ sea\ primo.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio6)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=boolean\ primo(int)
+numComments=3

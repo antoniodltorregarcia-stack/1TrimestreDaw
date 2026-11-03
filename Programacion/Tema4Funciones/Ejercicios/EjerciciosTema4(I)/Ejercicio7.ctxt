@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio7
+comment0.text=\r\n\ Realiza\ un\ programa\ que\ utilizando\ la\ funci\u00F3n\ anterior,\r\n\ use\ una\ funci\u00F3n\ divisores\ para\ determinar\ el\ n\u00FAmero\ de\ divisores\r\n\ primos\ que\ tiene\ el\ par\u00E1metro\ de\ entrada.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio7)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=boolean\ primo(int)
+comment3.params=n
+comment3.target=int\ divisores(int)
+numComments=4

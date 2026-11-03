@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CompilacionDeEjercicios
+comment0.text=\r\n\ Aqui\ encontramos\ todos\ los\ ejercicios\ del\ pdf\ en\ un\ solo\ programa\ utilizando\ funciones\ para\ ello\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (PDFCompleto)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Ejercicio1()
+comment3.params=
+comment3.target=void\ Ejercicio2()
+numComments=4
