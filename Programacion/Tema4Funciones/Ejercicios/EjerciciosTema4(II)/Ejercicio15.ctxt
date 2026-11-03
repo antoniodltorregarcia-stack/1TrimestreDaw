@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio15
+comment0.text=\r\n\ Dise\u00F1a\ una\ funci\u00F3n\ a\ la\ que\ se\ le\ pasan\ las\ horas\ y\ minutos\ de\ dos\ instantes\ de\ tiempo.\r\n\ con\ el\ siguiente\ prototipo\:\ static\ int\ diferenciaMin(int\ hora1,\ int\ minuto1,\ int\ hora2,\ int\ minuto2)\r\n\ La\ funci\u00F3n\ devolver\u00E1\ la\ \ cantidad\ de\ minutos\ que\ existen\ de\ diferencia\ entre\ los\ dos\ instantes\ utilizados.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.15)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=hora1\ minuto1\ hora2\ minuto2
+comment2.target=int\ diferencia(int,\ int,\ int,\ int)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio12
+comment0.text=\r\n\ \ Implementa\ la\ funci\u00F3n\ static\ double\ distancla(double\ x1,\ double\ y1,\ double\ x2,\ double\ y2)\r\n\ \ que\ calcula\ y\ devuelve\ la\ distancia\ euclidea\ que\ separa\ los\ puntos\ (x1,\ y1)\ y\ (x2,\ y2).\r\n\ \ La\ f\u00F3rmula\ para\ calcular\ esta\ distancia\ es\:\ \ distancia\ \=\ \u221A(\uD835\uDC651\ \u2212\ \uD835\uDC652)2\ +\ (\uD835\uDC661\ \u2212\ \uD835\uDC662)2\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double\ distacia(double,\ double,\ double,\ double)
+numComments=3

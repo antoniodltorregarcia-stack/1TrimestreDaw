@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio11
+comment0.text=\r\n\ Dise\u00F1a\ una\ funci\u00F3n\ que\ calcule\ y\ muestre\ la\ superficie\ y\ el\ volumen\ de\ una\ esfera\ \ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=radio
+comment2.target=double\ superficie(int)
+comment3.params=radio
+comment3.target=double\ volumen(int)
+numComments=4

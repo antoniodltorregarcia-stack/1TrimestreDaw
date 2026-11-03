@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio14
+comment0.text=\r\n\ Escribe\ una\ funci\u00F3n\ a\ la\ que\ se\ pase\ como\ par\u00E1metros\ de\ entrada\ una\ cantidad\ de\ d\u00EDas,\ horas\ y\ minutos.\r\n\ La\ funci\u00F3n\ calcular\u00E1\ y\ devolver\u00E1\ el\ n\u00FAmero\ de\ segundos\ que\ existen\ en\ los\ datos\ de\ entrada\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.14)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dia\ hora\ minuto
+comment2.target=int\ segundos(int,\ int,\ int)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio13
+comment0.text=\r\n\ Crea\ la\ funci\u00F3n\ muestraPares\ (int\ intNum)\ que\ muestre\ por\ consola\ los\ primeros\ n\ n\u00FAmeros\ pares.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.13)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=intNum
+comment2.target=int\ muestraPares(int)
+numComments=3

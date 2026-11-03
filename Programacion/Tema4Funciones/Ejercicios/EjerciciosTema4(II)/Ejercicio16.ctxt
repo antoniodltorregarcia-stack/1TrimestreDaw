@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio16
+comment0.text=\r\n\ Implementa\ la\ funci\u00F3n\ divisoresPrImos\ ()\ que\ muestra,\ por\ consola.\ todos\ los\ divisores\ primos\r\n\ del\ n\u00FAmero\ que\ se\ le\ pasa\ como\ par\u00E1metro.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.16)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=void\ divisoresPrimos(int)
+numComments=3
