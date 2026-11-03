@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio11
+comment0.text=\r\n\ La\ serie\ de\ Fibonacci\ es\ una\ seria\ de\ n\u00FAmeros\ que\ cumple\ la\ regla\ de\ que\ cualquier\ n\u00FAmero\r\n\ de\ la\ serie\ es\ el\ resultado\ de\ la\ suma\ de\ los\ dos\ n\u00FAmeros\ anteriores\ de\ la\ serie,\r\n\ excepto\ los\ dos\ primeros\ que\ son\ n\u00FAmeros\ 1.\ Porlo\ tanto\ tiene\ este\ aspecto\:\r\n\ \r\n\ Fibonacci\:\ 1,\ \ 1,\ \ 2,\ \ 3,\ \ 5,\ \ 8,\ \ 13,\ \ 21,\ \ 34,\ \ \u2026\r\n\ \r\n\ Realiza\ una\ funci\u00F3n\ que\ devuelva\ el\ n\u00FAmero\ de\ la\ serie\ de\ fibonacci\ de\ la\ \r\n\ posici\u00F3n\ n\ (n\ ser\u00EDa\ el\ par\u00E1metro\ de\ entrada)\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ fibonacci(int)
+numComments=3
