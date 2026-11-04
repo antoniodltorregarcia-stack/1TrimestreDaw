@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio19
+comment0.text=\r\n\ Sobrecarga\ la\ funci\u00F3n\ realizada\ en\ la\ Actividad\ de\ aplicaci\u00F3n\ 4.18\ para\ que\ el\ \u00FAnico\ par\u00E1metro\r\n\ sea\ la\ cantidad\ de\ n\u00FAmeros\ aleatorios\ que\ se\ muestra\ por\ consola.\ Los\ n\u00FAmeros\ aleatorios\r\n\ ser\u00E1n\ reales\ y\ estar\u00E1n\ comprendidos\ entre\ 0\ y\ 1.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.18)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cantidad
+comment2.target=void\ generarAleatorios(int)
+numComments=3

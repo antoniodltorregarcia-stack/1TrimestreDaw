@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio17
+comment0.text=\r\n\ Escribe\ una\ funci\u00F3n\ que\ decida\ si\ dos\ n\u00FAmeros\ enteros\ positivos\ son\ amigos.\ \r\n\ Dos\ n\u00FAmeros\ a\ y\ b\ son\ amigos\ si\ la\ suma\ de\ los\ divisores\ propios\ (distintos\ de\ \u00E9l\ mismo)\r\n\ de\ a\ es\ igual\ a\ b.\ Y\ viceversa.\ Para\ probar\ se\ pueden\ usar\ los\ n\u00FAmeros\ 220\ y\ 284.\ que\ son\ amigos.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.17)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=boolean\ amigos(int,\ int)
+numComments=3

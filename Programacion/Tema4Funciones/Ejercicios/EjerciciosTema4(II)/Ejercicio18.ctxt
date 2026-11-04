@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio18
+comment0.text=\r\n\ Crea\ una\ funci\u00F3n\ que\ muestre\ por\ consola\ una\ serie\ de\ n\u00FAmeros\ aleatorios\ enteros.\r\n\ Los\ par\u00E1metros\ de\ la\ funci\u00F3n\ ser\u00E1n\:\ la\ cantidad\ de\ n\u00FAmeros\ aleatorios\ que\ se\ \r\n\ mostrar\u00E1n\ y\ los\ valores\ m\u00EDnimos\ y\ m\u00E1ximos\ que\ estos\ \ pueden\ tomar.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (4.18)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cantidad\ min\ max
+comment2.target=void\ generarAleatorios(int,\ int,\ int)
+numComments=3
