@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Funciones
+comment0.text=\r\n\ Aqu\u00ED\ se\ incluyen\ funciones\ utiles\ para\ uso\ r\u00E1pido\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (FuncionesUtilesParaCopiar)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=boolean\ esPar()
+comment3.params=
+comment3.target=boolean\ esPrimo()
+comment4.params=
+comment4.target=double\ calcularMedia()
+numComments=5
