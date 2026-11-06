@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EjemploArrays
+comment0.text=\r\n\ Ejemplo\ de\ uso\ de\ arrays\ con\ funcion\ de\ pintar\ un\ Rectangulo.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (EjemploArraysconFunciones)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dimensiones
+comment2.target=void\ pintarRectangulo(int[])
+numComments=3

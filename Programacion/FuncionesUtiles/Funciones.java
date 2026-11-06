@@ -13,6 +13,7 @@ public class Funciones {
         
         int opcion = 0;
         do {
+            System.out.println("===========================================");
             System.out.println("Introduce la opción para usar las funciones");
             System.out.println("===========================================");
             System.out.println("Cerrar programa (-1)");
@@ -20,14 +21,22 @@ public class Funciones {
             System.out.println("Calcular si el número es Primo (2)");
             System.out.println("Calcular la media de varios números(3)");
             System.out.println("Calcular la potencia de un número(4)");
-            System.out.println("");
-            System.out.println("");
-            System.out.println("");
-            
+            System.out.println("Cantidad entre dos números, min & max(5)");
+            System.out.println("Conversor de tiempo, hora -> min -> segundos(6)");
+            System.out.println("Generar letra del dni(7)");
+            System.out.println("Adivinar número secreto(8)");
+            System.out.println("Área y Perimetro de un triangulo(9)");
+            System.out.println("Área y Perimetro de un cuadrado(10)");
+            System.out.println("Pintar triangulo(11)");
+            System.out.println("Calcular factorial de un número(12)");
+            System.out.println("Máximo común divisor(13)");
+            System.out.println("Mínimo común múltiplo(14)");
+            System.out.println("Mostrar una longitud concreta de la serie de Fibonacci(15)");
+            System.out.println("Comprobar si 2 números son amigos(16)"); //funciones 4.17
+            System.out.println("()");
             
             
             opcion = sc.nextInt();
-            System.out.println("===========================================");
             switch (opcion) {
                 case -1:
                     System.out.println("Programa finalizado...");
@@ -42,6 +51,10 @@ public class Funciones {
                     break;
                 case 3:
                     System.out.println("La media de los números es = " + calcularMedia());
+                    break;
+                case 4:
+                    System.out.println("El resultado es = " + calcularPotencia());
+                    break;
             }
             System.out.println("===========================================");
         } while (opcion != -1);
@@ -99,6 +112,28 @@ public class Funciones {
         double media = suma / (double) cont;
         
         return media;
+    }
+    
+    public static int calcularPotencia() {
+        Scanner sc = new Scanner (System.in);
+        
+        System.out.println("Introduce el número que quieres elevar");
+        
+        int n = sc.nextInt();
+        
+        System.out.println("Introduce las veces que quieres elevarlo");
+        
+        int potencia = sc.nextInt();
+        
+        int resultado = 1;
+        
+        System.out.println("Operación a realizar: " + n + "^" + potencia);
+        
+        for (int i = 1; i <= potencia; i++) {
+            resultado *= n;
+        }
+        
+        return resultado;
     }
     
 }

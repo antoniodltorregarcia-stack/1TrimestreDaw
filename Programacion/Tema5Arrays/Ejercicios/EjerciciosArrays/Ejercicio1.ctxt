@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Realiza\ la\ funci\u00F3n\:\ int\ []\ buscarTodos\ (int\ t[],\ int\ clave),\ que\ crea\ y\ devuelve\ una\ tabla\ con\ todos\r\n\ los\ \u00EDndices\ de\ los\ elementos\ donde\ se\ encuentra\ la\ clave\ de\ b\u00FAsqueda.\ En\ el\ caso\ de\ que\ clave\ no\ se\r\n\ encuentre\ en\ la\ tabla\ t,\ la\ funci\u00F3n\ devolver\u00E1\ una\ tabla\ vac\u00EDa.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.11)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=int[]\ rellenarTabla(int[])
+comment3.params=t\ clave
+comment3.target=int[]\ buscarTodos(int[],\ int)
+numComments=4

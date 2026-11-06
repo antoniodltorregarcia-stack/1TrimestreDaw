@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Escribe\ la\ funci\u00F3n\ void\ desordenar\ (int\ t[]),\ que\ cambia\ de\ forma\ aleatoria\ los\ elementos\ contenidos\ en\ la\ tabla\ t.\r\n\ Si\ la\ tabla\ estuviera\ ordenada,\ dejar\u00EDa\ de\ estarlo.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.12)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=int[]\ rellenarTabla(int[])
+comment3.params=t
+comment3.target=void\ desordenar(int[])
+numComments=4

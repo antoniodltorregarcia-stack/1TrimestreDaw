@@ -9,4 +9,6 @@ comment3.params=
 comment3.target=boolean\ esPrimo()
 comment4.params=
 comment4.target=double\ calcularMedia()
-numComments=5
+comment5.params=
+comment5.target=int\ calcularPotencia()
+numComments=6
