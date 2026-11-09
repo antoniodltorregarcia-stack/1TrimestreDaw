@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ El\ ayuntamiento\ de\ tu\ localidad\ te\ ha\ encargado\ una\ aplicaci\u00F3n\ que\ ayude\ a\ realizar\r\n\ encuestas\ estad\u00EDsticas\ para\ conocer\ el\ nivel\ adquisitivo\ de\ los\ habitantes\ del\ municipio.\r\n\ Para\ ello,\ tendr\u00E1s\ que\ preguntar\ el\ sueldo\ a\ cada\ persona\ encuestada.\ A\ priori,\r\n\ no\ conoces\ el\ n\u00FAmero\ de\ encuestados.\ Para\ finalizar\ la\ entrada\ de\ datos,\r\n\ introduce\ un\ sueldo\ con\ valor\ -1.\ \ Una\ vez\ terminada\ la\ entrada\ de\ datos,\r\n\ muestra\ la\ siguiente\ informaci\u00F3n\:\r\n\ \r\n\ \u2022\ Todos\ los\ sueldos\ introducidos\ ordenados\ de\ forma\ decreciente.\r\n\ \u2022\ El\ sueldo\ m\u00E1ximo\ y\ m\u00EDnimo.\ \ \r\n\ \u2022\ La\ media\ de\ los\ sueldos.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.14)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t\ posicion
+comment2.target=double[]\ ordenarDecreciente(double[],\ int)
+numComments=3

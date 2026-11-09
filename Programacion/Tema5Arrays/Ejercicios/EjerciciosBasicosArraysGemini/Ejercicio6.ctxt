@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ejercicio6
+comment0.text=\r\n\ 1.\ Crea\ un\ m\u00E9todo\ llamado\ ordenarDosPrimerosDecreciente\ que\ reciba\ tu\ array\ double[]\ t.\r\n\ \r\n\ 2.\ Con\ un\ condicional\ if,\ comprueba\ si\ el\ n\u00FAmero\ del\ primer\ caj\u00F3n\ t[0]\ es\ menor\ que\r\n\ el\ del\ segundo\ caj\u00F3n\ t[1].\r\n\ \r\n\ 3.\ Si\ es\ menor,\ significa\ que\ est\u00E1n\ mal\ ordenados\ (porque\ queremos\ que\ el\ mayor\ vaya\ primero).\r\n\ Entra\ al\ if\ e\ intercambia\ sus\ valores\ usando\ una\ variable\ double\ aux\ como\ te\ acabo\ de\ mostrar\ arriba.\r\n\ \r\n\ 4.\ Devuelve\ el\ array\ modificado\ con\ return\ t\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio4Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=double[]\ ordenarDosPrimerosDecreciente(double[])
+comment3.params=t\ sc
+comment3.target=double[]\ rellenarPorTeclado(double[],\ java.util.Scanner)
+comment4.params=t
+comment4.target=double\ calcularMedia(double[])
+comment5.params=t
+comment5.target=double\ obtenerMaximo(double[])
+comment6.params=t
+comment6.target=int\ obtenerPosicionMaximo(double[])
+numComments=7

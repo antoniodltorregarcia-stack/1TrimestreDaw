@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Crea\ un\ m\u00E9todo\ llamado\ crearTemperaturas\ que\ haga\ lo\ siguiente\:\r\n\ \r\n\ \ 1.\ Declare\ un\ array\ de\ n\u00FAmeros\ decimales\ (double[])\ con\ espacio\ para\ 4\ elementos.\r\n\ \r\n\ \ 2.\ Guarde\ de\ forma\ manual\ (caj\u00F3n\ por\ caj\u00F3n)\ las\ siguientes\ temperaturas\ en\r\n\ \ el\ array\:\ 15.5,\ 22.0,\ 18.2\ y\ 25.4.\r\n\ \r\n\ \ 3.\ Devuelva\ el\ array\ utilizando\ return.\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio1Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=double[]\ crearTemperaturas(double[])
+numComments=3

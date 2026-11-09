@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Aprovechando\ el\ array\ de\ temperaturas\ que\ ya\ sabes\ crear,\ introduce\ un\ nuevo\ m\u00E9todo\r\n\ que\ calcule\ el\ promedio.\r\n\ \r\n\ 1.\ Crea\ un\ m\u00E9todo\ llamado\ calcularMedia\ que\ reciba\ como\ par\u00E1metro\ un\ array\ de\ decimales\ (double[]\ t).\r\n\ \r\n\ 2.\ Dentro\ del\ m\u00E9todo,\ utiliza\ un\ bucle\ for\ para\ sumar\ todas\ las\ temperaturas\ que\ contiene\ el\ array.\r\n\ \r\n\ 3.\ Calcula\ la\ media\ aritm\u00E9tica\ (la\ suma\ total\ dividida\ entre\ el\ n\u00FAmero\ de\ elementos,\r\n\ que\ puedes\ obtener\ con\ t.length).4.\ Devuelve\ el\ resultado\ (un\ \u00FAnico\ n\u00FAmero\ double)\ usando\ return.\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio2Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=double[]\ crearTemperaturas(double[])
+comment3.params=t
+comment3.target=double\ calcularMedia(double[])
+numComments=4

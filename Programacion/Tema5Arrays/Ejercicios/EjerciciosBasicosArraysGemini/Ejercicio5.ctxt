@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment0.text=\r\n\ 1.\ Crea\ un\ m\u00E9todo\ llamado\ obtenerPosicionMaximo\ que\ reciba\ el\ array\ double[]\ t.\r\n\ \r\n\ 2.\ Crea\ una\ variable\ para\ recordar\ la\ posici\u00F3n\ del\ mayor\ (por\ ejemplo,\ int\ posMaximo\ \=\ 0;),\r\n\ asumiendo\ al\ principio\ que\ est\u00E1\ en\ el\ primer\ caj\u00F3n\ (el\ 0).\r\n\ \r\n\ 3.\ Recorre\ el\ array\ con\ un\ bucle\ for\ (aqu\u00ED\ s\u00ED\ te\ recomiendo\ empezar\ en\ i\ \=\ 1).\r\n\ \r\n\ 4.\ En\ el\ if,\ compara\ el\ elemento\ actual\ t[i]\ contra\ el\ elemento\ que\ est\u00E9\ en\ la\ posici\u00F3n\r\n\ que\ consideras\ la\ mayor\ hasta\ ahora\:\ t[posMaximo].\r\n\ \r\n\ 5.\ Si\ encuentras\ uno\ mayor,\ actualizas\ tu\ variable\ con\ el\ \u00EDndice\ actual\:\r\n\ posMaximo\ \=\ i;.\r\n\ \r\n\ 6.\ Al\ terminar\ el\ bucle,\ devuelve\ posMaximo\ (que\ ser\u00E1\ un\ n\u00FAmero\ entero\ int)\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio4Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t\ sc
+comment2.target=double[]\ rellenarPorTeclado(double[],\ java.util.Scanner)
+comment3.params=t
+comment3.target=double\ calcularMedia(double[])
+comment4.params=t
+comment4.target=double\ obtenerMaximo(double[])
+comment5.params=t
+comment5.target=int\ obtenerPosicionMaximo(double[])
+numComments=6

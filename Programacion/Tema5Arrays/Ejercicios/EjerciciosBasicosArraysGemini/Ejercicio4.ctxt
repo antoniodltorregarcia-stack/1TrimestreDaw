@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ 1.\ Modifica\ el\ m\u00E9todo\ crearTemperaturas\ (o\ crea\ uno\ nuevo\ llamado\ rellenarPorTeclado).\r\n\ \r\n\ 2.\ El\ m\u00E9todo\ debe\ recibir\ por\ par\u00E1metro\ el\ array\ vacio\ double\ t[]\ y\ el\ objeto\ Scanner\ sc.\r\n\ \r\n\ 3.\ Utiliza\ un\ bucle\ for\ que\ vaya\ desde\ 0\ hasta\ t.length.\r\n\ \r\n\ 4.\ Dentro\ del\ bucle,\ pide\ al\ usuario\ cada\ temperatura\ usando\ un\ mensaje\ en\ pantalla\r\n\ (por\ ejemplo\:\ "Introduce\ la\ temperatura\ "\ +\ (i\ +\ 1)\ +\ "\:\ ")\ y\ guarda\ lo\ que\ escriba\ en\r\n\ t[i]\ usando\ sc.nextDouble().\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio4Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t\ sc
+comment2.target=double[]\ rellenarPorTeclado(double[],\ java.util.Scanner)
+comment3.params=t
+comment3.target=double\ calcularMedia(double[])
+comment4.params=t
+comment4.target=double\ obtenerMaximo(double[])
+numComments=5

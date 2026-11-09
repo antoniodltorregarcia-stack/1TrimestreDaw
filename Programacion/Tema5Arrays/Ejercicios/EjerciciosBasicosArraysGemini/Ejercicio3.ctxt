@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment0.text=\r\n\ Tu\ misi\u00F3n\ ahora\ es\ encontrar\ cu\u00E1l\ es\ el\ n\u00FAmero\ m\u00E1s\ grande\ dentro\ del\ array.\r\n\ \r\n\ 1.\ A\u00F1ade\ un\ m\u00E9todo\ llamado\ obtenerMaximo\ que\ reciba\ como\ par\u00E1metro\ el\ array\ de\ decimales\ (double[]\ t).\r\n\ \r\n\ 2.\ Crea\ una\ variable\ para\ almacenar\ provisionalmente\ el\ valor\ m\u00E1ximo\ \r\n\ (por\ ejemplo,\ double\ maximo\ \=\ t[0];).\ Asumimos\ que\ el\ primero\ es\ el\ mayor\ antes\ de\ empezar\ a\ comparar.\r\n\ \r\n\ 3.\ Utiliza\ un\ bucle\ for\ para\ recorrer\ el\ array\ (puedes\ empezar\ desde\ el\ \u00EDndice\ 1\r\n\ si\ quieres\ ahorrar\ una\ comparaci\u00F3n)\ y,\ con\ un\ condicional\ if,\ comprueba\ si\ el\ elemento\ actual\ t[i]\r\n\ es\ mayor\ que\ tu\ variable\ maximo.\ Si\ es\ as\u00ED,\ actualizas\ la\ variable\ maximo.\r\n\ \r\n\ 4.\ Devuelve\ ese\ valor\ m\u00E1ximo\ con\ return.\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio3Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=double[]\ crearTemperaturas(double[])
+comment3.params=t
+comment3.target=double\ calcularMedia(double[])
+comment4.params=t
+comment4.target=double\ obtenerMaximo(double[])
+numComments=5

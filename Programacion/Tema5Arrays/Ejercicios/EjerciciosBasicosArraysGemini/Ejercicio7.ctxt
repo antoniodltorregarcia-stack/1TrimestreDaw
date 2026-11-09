@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ejercicio7
+comment0.text=\r\n\ 1.\ Crea\ un\ m\u00E9todo\ llamado\ ordenarArrayDecreciente\ que\ reciba\ tu\ array\ double[]\ t.\r\n\ \r\n\ 2.\ Escribe\ el\ primer\ bucle\ for\ con\ la\ variable\ i\ (va\ desde\ 0\ hasta\ t.length\ -\ 1).\r\n\ \r\n\ 3.\ Dentro,\ escribe\ el\ segundo\ bucle\ for\ con\ la\ variable\ j\ (empieza\ en\ i\ +\ 1\ y\ va\ hasta\ t.length).\r\n\ \r\n\ 4.\ Dentro\ del\ segundo\ bucle,\ a\u00F1ade\ el\ if.\ Recuerda\:\ como\ queremos\ orden\ decreciente,\r\n\ intercambiamos\ si\ el\ n\u00FAmero\ en\ t[i]\ es\ menor\ que\ el\ de\ t[j]\ (if\ (t[i]\ <\ t[j])).\r\n\ \r\n\ 5.\ Haz\ el\ intercambio\ usando\ la\ variable\ auxiliar\ con\ t[i]\ y\ t[j].\r\n\ \r\n\ 6.\ Devuelve\ el\ array\ con\ return\ t;.\r\n\ \ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio4Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=double[]\ ordenarArrayDecreciente(double[])
+comment3.params=t
+comment3.target=double[]\ ordenarDosPrimerosDecreciente(double[])
+comment4.params=t\ sc
+comment4.target=double[]\ rellenarPorTeclado(double[],\ java.util.Scanner)
+comment5.params=t
+comment5.target=double\ calcularMedia(double[])
+comment6.params=t
+comment6.target=double\ obtenerMaximo(double[])
+comment7.params=t
+comment7.target=int\ obtenerPosicionMaximo(double[])
+numComments=8
