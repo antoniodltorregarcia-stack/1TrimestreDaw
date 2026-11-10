@@ -5,4 +5,6 @@ comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=t\ posicion
 comment2.target=double[]\ ordenarDecreciente(double[],\ int)
-numComments=3
+comment3.params=t\ posicion
+comment3.target=double\ mediaSueldos(double[],\ int)
+numComments=4

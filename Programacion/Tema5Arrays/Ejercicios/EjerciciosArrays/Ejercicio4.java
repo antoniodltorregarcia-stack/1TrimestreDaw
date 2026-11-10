@@ -35,11 +35,17 @@ public class Ejercicio4 {
             }
         } while (sueldo != -1);
         
+        System.out.println("Sueldo ordenados decrecientemente: ");
         ordenarDecreciente(t, posicion);
-        
         for (int i = 0; i < posicion; i++) {
             System.out.print(t[i] + " ");
         }
+        
+        System.out.println();
+        System.out.println("Sueldo máximo: " + t[0]);
+        System.out.println("Sueldo mínimo: " + t[posicion - 1]);
+        
+        System.out.println("Media de los sueldos: " + mediaSueldos(t,posicion));
     }
     
     public static double[] ordenarDecreciente(double t [], int posicion ) {
@@ -59,4 +65,16 @@ public class Ejercicio4 {
     
         return t;
     }
+    
+    public static double mediaSueldos (double t[], int posicion) {
+        double suma = 0;
+        
+        for (int i = 0; i < posicion; i++) {
+            suma += t[i];
+        }
+        
+        return suma / posicion;
+    }
+    
+    
 }

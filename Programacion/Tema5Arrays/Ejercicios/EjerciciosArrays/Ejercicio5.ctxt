@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment0.text=\r\n\ Debes\ desarrollar\ una\ aplicaci\u00F3n\ que\ ayude\ a\ gestionar\ las\ notas\r\n\ de\ un\ centro\ educativo.\ Los\ alumnos\ se\ organizan\ en\ grupos\ compuestos\r\n\ por\ 5\ personas.\ Leer\ las\ notas\ (n\u00FAmeros\ enteros)\ del\ primer,\ segundo\r\n\ y\ tercer\ trimestre\ de\ un\ grupo.\ Debes\ mostrar\ al\ final\ la\ nota\ media\r\n\ del\ grupo\ en\ cada\ trimestre\ y\ la\ media\ del\ alumno\ que\ se\ encuentra\ en\r\n\ una\ posici\u00F3n\ dada\ (que\ el\ usuario\ introduce\ por\ teclado).\ \r\n\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.15)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
