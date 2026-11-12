@@ -30,21 +30,21 @@ public class ArbolitoDeNavidad {
             System.out.println(); 
         }
         
-        // TRONCO FIJO DE ANCHO 2 Y ALTURA VARIABLE (base / 2) ===
+        
         
         int anchoTronco = 2;
         int alturaTronco = base / 2;
         
-        // Calculamos los espacios para centrar los 2 caracteres del tronco respecto a la base par
+        
         int espaciosTronco = (base - anchoTronco) / 2;
         
-        // Pintamos las filas del tronco según el tamaño del triángulo
+        
         for (int fila = 0; fila < alturaTronco; fila++) {
-            // Espacios a la izquierda
+            
             for (int i = 0; i < espaciosTronco; i++) {
                 System.out.print(" ");
             }
-            // Caracteres del tronco fijo de 2 con "+"
+            
             for (int i = 0; i < anchoTronco; i++) {
                 System.out.print("+");
             }
