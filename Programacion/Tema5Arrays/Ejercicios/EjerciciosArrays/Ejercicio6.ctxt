@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio6
+comment0.text=\r\n\ En\ un\ juego\ de\ rol\ el\ mapa\ puede\ implementarse\ como\ una\ matriz\ donde\ las\ filas\ y\ las\ columnas\ representan\ lugares\r\n\ (lugar\ 0,\ lugar\ 1,\ lugar\ 2,\ etc.)\ que\ estar\u00E1n\ conectados.\ Si\ desde\ el\ lugar\ X\ podemos\ ir\ hacia\ el\ lugar\ Y,\ entonces\r\n\ la\ matriz\ en\ la\ posici\u00F3n\ [x][y]\ valdr\u00E1\ cierto;\ en\ caso\ contrario,\ valdr\u00E1\ falso.\ Escribe\ una\ funci\u00F3n\ que,\ dada\ una\ matriz\r\n\ que\ representa\ el\ mapa\ y\ dos\ lugares,\ indique\ si\ es\ posible\ viajar\ desde\ el\ primer\ lugar\ al\ segundo\ (directamente\r\n\ o\ pasando\ por\ lugares\ intermedios).\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.16)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=lugar\ sc
+comment2.target=boolean\ viaje(int[],\ java.util.Scanner)
+numComments=3
