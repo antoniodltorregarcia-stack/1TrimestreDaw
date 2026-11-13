@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Posicion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Posicion\ here.\r\n\ \r\n\ @author\ (TonY)\ \r\n\ @version\ (ClasePosicion)\r\n
+comment1.params=posX\ posY\ velX\ velY
+comment1.target=Posicion(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getposX()
+comment3.params=posX
+comment3.target=void\ setposX(int)
+comment4.params=
+comment4.target=int\ getposY()
+comment5.params=posY
+comment5.target=void\ setposY(int)
+comment6.params=
+comment6.target=int\ getvelX()
+comment7.params=velX
+comment7.target=void\ setvelX(int)
+comment8.params=
+comment8.target=int\ getvelY()
+comment9.params=velY
+comment9.target=void\ setvelY(int)
+numComments=10

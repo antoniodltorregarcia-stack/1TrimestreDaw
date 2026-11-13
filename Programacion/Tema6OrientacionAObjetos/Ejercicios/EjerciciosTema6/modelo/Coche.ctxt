@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Coche
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Coche\ here.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (ClaseCoche)\r\n
+comment1.params=matricula\ color\ marca\ modelo\ anioMatriculacion
+comment1.target=Coche(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=int\ getAnioMatriculacion()
+comment11.params=anioMatriculacion
+comment11.target=void\ setAnioMatriculacion(int)
+comment2.params=
+comment2.target=java.lang.String\ getMatricula()
+comment3.params=matricula
+comment3.target=void\ setMatricula(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=color
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getMarca()
+comment7.params=marca
+comment7.target=void\ setMarca(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getModelo()
+comment9.params=modelo
+comment9.target=void\ setModelo(java.lang.String)
+numComments=12
