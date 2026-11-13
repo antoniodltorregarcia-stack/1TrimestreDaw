@@ -2,11 +2,11 @@
 comment0.target=Persona
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Persona\ here.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (ClasePersona)\r\n
 comment1.params=nombre\ apellido1\ apellido2\ dni\ edad\ telefono\ email
-comment1.target=Persona(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ byte,\ java.lang.String,\ java.lang.String)
+comment1.target=Persona(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
 comment10.params=
-comment10.target=byte\ getEdad()
+comment10.target=int\ getEdad()
 comment11.params=edad
-comment11.target=void\ setEdad(byte)
+comment11.target=void\ setEdad(int)
 comment12.params=
 comment12.target=java.lang.String\ getTelefono()
 comment13.params=telefono

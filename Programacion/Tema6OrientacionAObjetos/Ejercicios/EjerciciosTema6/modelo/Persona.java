@@ -12,11 +12,11 @@ public class Persona {
     private String apellido1;
     private String apellido2;
     private String dni;
-    private byte edad;
+    private int edad;
     private String telefono;
     private String email;
     
-    public Persona (String nombre, String apellido1, String apellido2, String dni, byte edad, String telefono, String email) {
+    public Persona (String nombre, String apellido1, String apellido2, String dni, int edad, String telefono, String email) {
         this.nombre = nombre;
         this.apellido1 = apellido1;
         this.apellido2 = apellido2;
@@ -58,11 +58,11 @@ public class Persona {
         this.dni = dni;
     }
     
-    public byte getEdad() {
+    public int getEdad() {
         return edad;
     }
     
-    public void setEdad(byte edad) {
+    public void setEdad(int edad) {
         this.edad = edad;
     }
 
