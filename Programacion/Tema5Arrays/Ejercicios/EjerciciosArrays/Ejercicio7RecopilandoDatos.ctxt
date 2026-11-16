@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio7RecopilandoDatos
+comment0.text=\r\n\ Implementa\ la\ funcion\:\ int\ []\ suma(int\ t[],\ int\ numElementos),\ que\ crea\ y\ devuelve\ una\ tabla\ con\ las\r\n\ sumas\ de\ los\ numElementos\ elementos\ consecutivos\ de\ t.\ Veamos\ un\ ejemplo,\r\n\ sea\ t\ \=\ [10,\ 1,\ 5,\ 8,\ 9,\ 2].\ Si\ los\ elementos\ de\ t\ se\ agrupan\ de\ 3\ en\ 3,\r\n\ se\ har\u00E1n\ las\ sumas\:\r\n\ \r\n\ 10+1+5.\ Igual\ a\ 16.\r\n\ 1+5+8.\ Igual\ a\ 14.\r\n\ 5+8+49.\ Igual\ a\ 22.\r\n\ 8+9+2.\ Igual\ a\ 19.\r\n\ \r\n\ Por\ lo\ tanto,\ la\ funci\u00F3n\ devolver\u00E1\ una\ tabla\ con\ los\ resultados\:\ [16,\ 14,\ 22,\ 19].\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.17)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t\ tSuma\ numElementos
+comment2.target=int[]\ suma(int[],\ int[],\ int)
+numComments=3

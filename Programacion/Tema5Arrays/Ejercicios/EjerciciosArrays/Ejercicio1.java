@@ -28,10 +28,17 @@ public class Ejercicio1 {
         }
         System.out.println();
         
-        int[] resultadoIndices = buscarTodos(t, clave);
+        int posiciones[] = buscarTodos(t, clave);
+
+        System.out.println("Claves encontradas : ");
         
-        System.out.println("Índices donde se encuentra la clave: " + Arrays.toString(resultadoIndices));
-    
+        if (posiciones.length == 0) {
+            System.out.println(0);
+        } else {
+            for (int i = 0; i < posiciones.length; i++) {
+                System.out.print(posiciones[i] + " ");
+            }
+        }
     }
     
     public static int [] rellenarTabla (int t[]) {
@@ -52,19 +59,19 @@ public class Ejercicio1 {
                 contador++;
             }
         }
+    
         
-        int[] tablaIndices = new int[contador];
-        
-        
-        int contador2 = 0; 
+        int posiciones[] = new int[contador];
+        int posicion = 0;
+    
         
         for (int i = 0; i < t.length; i++) {
             if (t[i] == clave) {
-                tablaIndices[contador2] = i; 
-                contador2++; 
+                posiciones[posicion] = i;
+                posicion++;
             }
         }
-        
-        return tablaIndices;
+    
+        return posiciones;
     }
 }

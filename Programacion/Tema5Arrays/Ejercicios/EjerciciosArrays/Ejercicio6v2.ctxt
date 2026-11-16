@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio6v2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mapa\ origen\ destino
+comment2.target=boolean\ esPosibleViajar(boolean[][],\ int,\ int)
+numComments=3
