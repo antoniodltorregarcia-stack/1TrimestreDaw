@@ -33,13 +33,13 @@ public class Ejercicio7RecopilandoDatos {
             numElementos++;
         } while (n != -1);
         
-        int longitudResultado = t.length / 3;
+        int longitudResultado = numElementos / 3;
         int [] tSuma = new int [longitudResultado];
         
         suma(t,tSuma,numElementos);
         
         System.out.print("Resultados = ");
-        for (int i = 0; i <= numElementos; i++) {
+        for (int i = 0; i < longitudResultado; i++) {
             System.out.print(tSuma [i] + " ");
         }
         

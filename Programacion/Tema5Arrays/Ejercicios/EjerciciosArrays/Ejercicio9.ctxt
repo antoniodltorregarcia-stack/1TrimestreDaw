@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ejercicio9
+comment0.text=\r\n\ Dise\u00F1a\ una\ aplicaci\u00F3n\ para\ gestionar\ la\ llegada\ a\ meta\ de\ los\ participantes\ de\ una\ carrera.\ Cada\ uno\ de\ ellos\ dispone\r\n\ de\ un\ dorsal\ (un\ n\u00FAmero\ entero)\ que\ los\ identifica.\ En\ la\ aplicaci\u00F3n\ se\ introduce\ el\ n\u00FAmero\ de\ dorsal\ de\ cada\ corredor\r\n\ cuando\ este\ llega\ a\ la\ meta.\ \r\n\ \r\n\ Para\ indicar\ que\ la\ carrera\ ha\ finalizado\ (han\ llegado\ todos\ los\ corredores\ a\ la\ meta),\r\n\ se\ introduce\ como\ dorsal\ el\ n\u00FAmero\ -1.\ \r\n\ \r\n\ A\ continuaci\u00F3n,\ la\ aplicaci\u00F3n\ solicita\ informaci\u00F3n\ extra\ de\ los\ corredores.\r\n\ \r\n\ En\ primer\ lugar,\ se\ introducen\ los\ dorsales\ de\ todos\ los\ corredores\ menores\ de\ edad;\ para\ premiarlos\ por\ su\ esfuerzo\r\n\ se\ les\ avanza\ un\ puesto\ en\ el\ ranking\ general\ de\ la\ carrera,\ es\ decir,\ es\ como\ si\ hubieran\ adelantado\ al\ corredor\ que\r\n\ llevaban\ delante.\ \r\n\ \r\n\ En\ Segundo\ lugar,\ se\ introducen\ los\ dorsales\ de\ los\ corredores\ que\ han\ dado\ positivo\ en\ el\ test\ antidopaje,\r\n\ lo\ que\ provoca\ su\ expulsi\u00F3n\ inmediata.\ \r\n\ \r\n\ Para\ finalizar,\ se\ introducen\ los\ dorsales\ de\ los\ corredores\ que\ no\ han\ pagado\r\n\ su\ inscripci\u00F3n\ en\ la\ carrera,\ lo\ que\ provoca\ que\ se\ releguen\ a\ los\ \u00FAltimos\ puestos\ del\ ranking\ general.\r\n\ \r\n\ La\ aplicaci\u00F3n\ debe\ mostrar\ los\ dorsales\ de\ los\ corredores\ que\ han\ conseguido\ las\ medallas\ de\ oro,\ plata\ y\ bronce.\ \r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.19)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ordenFinal\ t\ dorsalesMenores\ morosos\ dopados\ nParticipantes\ sc
+comment2.target=int[]\ ordenarCarrera(int[],\ int[],\ int[],\ int[],\ int[],\ int,\ java.util.Scanner)
+comment3.params=t\ dorsalesMenores\ morosos\ dopados\ ordenFinal\ nParticipantes\ sc
+comment3.target=void\ pintarDatos(int[],\ int[],\ int[],\ int[],\ int[],\ int,\ java.util.Scanner)
+comment4.params=t\ sc
+comment4.target=int[]\ rellenarDatos(int[],\ java.util.Scanner)
+comment5.params=t
+comment5.target=int\ longitudArray(int[])
+comment6.params=t\ dorsalesMenores\ nParticipantes\ sc
+comment6.target=int[]\ introducirMenores(int[],\ int[],\ int,\ java.util.Scanner)
+comment7.params=t\ morosos\ nParticipantes\ sc
+comment7.target=int[]\ introducirMorosos(int[],\ int[],\ int,\ java.util.Scanner)
+comment8.params=t\ dopados\ nParticipantes\ sc
+comment8.target=int[]\ introducirDopados(int[],\ int[],\ int,\ java.util.Scanner)
+numComments=9

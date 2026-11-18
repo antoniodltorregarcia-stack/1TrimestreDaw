@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio8
+comment0.text=\r\n\ Escribe\ un\ programa\ que\ solicite\ los\ elementos\ de\ una\ matriz\ de\ tama\u00F1o\ 4\ x\ 4.\ La\ aplicaci\u00F3n\ debe\ decidir\ si\ la\ matriz\r\n\ introducida\ corresponde\ a\ una\ matriz\ m\u00E1gica,\ que\ es\ aquella\ donde\ la\ suma\ de\ los\ elementos\ de\ cualquier\ fila\ o\ \r\n\ de\ cualquier\ columna\ valen\ lo\ mismo.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.18)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fila1\ fila2\ fila3\ fila4
+comment2.target=void\ pintarMatriz(int[],\ int[],\ int[],\ int[])
+numComments=3
