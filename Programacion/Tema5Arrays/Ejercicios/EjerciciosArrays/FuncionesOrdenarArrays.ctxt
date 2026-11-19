@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FuncionesOrdenarArrays
+comment0.text=\r\n\ Aqui\ se\ crean\ y\ se\ utilizan\ funciones\ para\ reorganizar\ tablas,\ de\ menor\ a\ mayor,\ adelantando\ puestos...\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (FuncionesDeOrdenaci\u00F3n)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t
+comment2.target=int[]\ rellenarArrayRandom(int[])
+comment3.params=t\ sc
+comment3.target=int[]\ rellenarArrayManual(int[],\ java.util.Scanner)
+comment4.params=t
+comment4.target=void\ pintarArray(int[])
+comment5.params=t
+comment5.target=int[]\ ordenarDeMenorAMayor(int[])
+comment6.params=t
+comment6.target=int[]\ ordenarDeMayorAMenor(int[])
+numComments=7

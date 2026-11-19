@@ -20,6 +20,8 @@ public class Ejercicio6 {
     }
     
     public static boolean viaje (int lugar[], Scanner sc) {
+        System.out.println("Introduce el lugar de viaje 0-4");
+        
         System.out.println("Introduce el punto x");
         int x = sc.nextInt();
         System.out.println("Introduce el punto y");

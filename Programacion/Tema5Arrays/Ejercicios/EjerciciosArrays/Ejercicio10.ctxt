@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio10
+comment0.text=\r\n\ La\ fusi\u00F3n\ de\ dos\ tablas\ ordenadas\ consiste\ en\ copiar\ todos\ sus\ elementos\ (de\ ambas\ tablas)\ en\ una\ tercera\ que\ deber\u00E1\ seguir\ ordenada.\r\n\ Podemos\ realizar\ una\ fusi\u00F3n\ \u00ABineficiente\u00BB\ copiando\ los\ elementos\ de\ ambas\ tablas\ (sin\ tener\ en\ cuenta\ el\ orden)\ en\ la\ tabla\ final\ y\ ordenar\ esta.\r\n\ Existe\ una\ manera\ \u00F3ptima\ de\ realizar\ la\ fusi\u00F3n\ en\ la\ que\ se\ elige\ en\ cada\ momento\ el\ primer\ elemento\ no\ copiado\ de\ alguna\ de\ las\ tablas\r\n\ y\ se\ a\u00F1ade\ a\ la\ tabla\ final,\ que\ seguir\u00E1\ ordenada\ sin\ necesidad\ de\ ordenaci\u00F3n\ alguna.\ Busca\ informaci\u00F3n\ sobre\ el\ algoritmo\ de\ fusi\u00F3n\ e\r\n\ implem\u00E9ntalo\ en\ Java.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (5.20)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=t1\ t2
+comment2.target=int[]\ fusionarTablas(int[],\ int[])
+numComments=3
