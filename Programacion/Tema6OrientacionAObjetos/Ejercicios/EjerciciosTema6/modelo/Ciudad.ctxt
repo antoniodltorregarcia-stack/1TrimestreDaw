@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ciudad
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ciudad\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre
+comment1.target=Ciudad(java.lang.String)
+comment2.params=nuevaCiudad
+comment2.target=void\ agregarCiudades(java.lang.String)
+comment3.params=ciudadEliminada
+comment3.target=void\ eliminarCiudades(java.lang.String)
+comment4.params=
+comment4.target=void\ mostrarCiudades()
+numComments=5

@@ -1,8 +1,6 @@
 #BlueJ class context
 comment0.target=Principal
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Principal\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=
-comment1.target=Principal()
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3
+comment0.text=\r\n\ En\ esta\ clase\ se\ trabajan\ los\ objetos\ creados\ en\ el\ paquete\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Clase\ Principal(Main))\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
