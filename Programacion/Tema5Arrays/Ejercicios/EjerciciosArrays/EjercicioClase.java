@@ -43,7 +43,7 @@ public class EjercicioClase {
         listaDecimales = new double [tamanioArray];
         
         for (int i = 0; i < listaDecimales.length; i++) {
-            listaDecimales[i] = (i * 2) + 0.1;
+            listaDecimales[i] = (double)(i * 2) + 0.1;
         }
         
         
@@ -61,7 +61,7 @@ public class EjercicioClase {
            
         //1.
         System.out.println("Listado enteros: ");
-        for(int i=0;i<listaNumeros.length;i++) {
+        for(int i = 0; i < listaNumeros.length; i++) {
             System.out.print(listaNumeros[i] + " ");
         }
         System.out.println();

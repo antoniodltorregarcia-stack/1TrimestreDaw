@@ -13,4 +13,6 @@ comment5.params=t
 comment5.target=int[]\ ordenarDeMenorAMayor(int[])
 comment6.params=t
 comment6.target=int[]\ ordenarDeMayorAMenor(int[])
-numComments=7
+comment7.params=t\ opcion
+comment7.target=int[]\ eliminarElementoDeArray(int[],\ int)
+numComments=8

@@ -32,6 +32,16 @@ public class FuncionesOrdenarArrays {
         System.out.println("Array ordenado de mayor a menor");
         ordenarDeMayorAMenor(t);
         pintarArray(t);
+        
+        do {
+            System.out.println("Deseas eliminar algun elemento del Array? Escribelo sino (0) para continuar");
+            opcion = sc.nextInt();
+            
+            if (opcion != 0) {
+                t = eliminarElementoDeArray(t,opcion); //Importante guardar en t la funcion de eliminar para modificarlo
+                pintarArray(t);
+            }
+        } while (opcion != 0);
     }
     
     public static int [] rellenarArrayRandom(int t[]) {
@@ -88,5 +98,32 @@ public class FuncionesOrdenarArrays {
         }
         
         return t;
+    }
+    
+    public static int [] eliminarElementoDeArray(int t[], int opcion) {
+        int aux = 0;
+        int elemento = opcion;
+        int posicion = -1;
+        for(int i = 0; i < t.length; i++) {
+            if (t[i] == elemento) {
+                posicion = i;
+            }
+        }
+        
+         if (posicion == -1) {
+            System.out.println("El elemento no existe en el array.");
+            return t;
+        }
+        
+        int t2 [] = new int [t.length - 1];
+        int cont = 0;
+        for(int i = 0; i < t.length; i++) {
+            if (i != posicion) {
+                t2[cont] = t[i];
+                cont++; //El segundo Array solo avanza si no esta la posicion del elemento a eliminar, no siempre
+            }
+        }
+        
+        return t2;
     }
 }
