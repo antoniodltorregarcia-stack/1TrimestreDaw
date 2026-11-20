@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Imagina\ que\ tienes\ un\ array\ que\ representa\ las\ puntuaciones\ de\ un\ juego,\ pero\ se\ han\ colado\ algunos\ valores\ negativos\ (errores)\ y\ est\u00E1n\ desordenados.\r\n\ \r\n\ 1.\ Filtrar\ (Eliminar)\:\ Crea\ un\ nuevo\ array\ que\ contenga\ solo\ los\ n\u00FAmeros\ positivos\ (mayores\ o\ iguales\ a\ 0).\r\n\ El\ tama\u00F1o\ del\ nuevo\ array\ debe\ ser\ exacto\ (sin\ ceros\ sobrantes\ al\ final).\r\n\ \r\n\ 2.\ Ordenar\:\ Ordena\ ese\ nuevo\ array\ de\ menor\ a\ mayor.\r\n\ \r\n\ 3.\ Mostrar\:\ Imprime\ el\ resultado\ final\ por\ consola.\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejer1Gemini)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=puntuaciones
+comment2.target=int[]\ filtrarPositivos(int[])
+comment3.params=puntuaciones
+comment3.target=int[]\ ordenarMenorAMayor(int[])
+numComments=4

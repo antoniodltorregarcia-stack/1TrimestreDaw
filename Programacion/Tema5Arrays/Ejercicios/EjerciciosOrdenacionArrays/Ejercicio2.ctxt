@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Tu\ objetivo\ (crea\ una\ funci\u00F3n\ para\ cada\ tarea)\:\r\n\ \r\n\ 1.\ eliminarProducto(int[]\ array,\ int\ idABorrar)\:\ Busca\ el\ idABorrar\ (por\ ejemplo,\ el\ 110).\r\n\ Si\ existe,\ desplaza\ todos\ los\ elementos\ posteriores\ una\ posici\u00F3n\ a\ la\ izquierda\ para\ tapar\ su\ hueco,\r\n\ y\ pon\ un\ -1\ en\ la\ \u00FAltima\ posici\u00F3n\ ocupada.\r\n\ \r\n\ \u2022\ Resultado\ esperado\ tras\ borrar\ 110\:\ {101,\ 105,\ 115,\ 120,\ -1,\ -1,\ -1}\r\n\ \r\n\ 2.\ insertarOrdenado(int[]\ array,\ int\ nuevoId)\:\ Inserta\ un\ nuevo\ ID\ (por\ ejemplo,\ el\ 108)\ manteniendo\ el\ orden\r\n\ de\ menor\ a\ mayor\ sin\ usar\ tu\ m\u00E9todo\ de\ ordenaci\u00F3n\ despu\u00E9s.\ Tendr\u00E1s\ que\ buscar\ su\ sitio,\ desplazar\r\n\ los\ mayores\ hacia\ la\ derecha\ (si\ hay\ alg\u00FAn\ -1\ libre\ al\ final)\ y\ colocarlo\ en\ su\ hueco.\r\n\ \r\n\ \u2022\ Resultado\ esperado\ tras\ insertar\ 108\:\ {101,\ 105,\ 108,\ 115,\ 120,\ -1,\ -1}\r\n\ \r\n\ @author\ (Tony)\ \r\n\ @version\ (Ejercicio2Ordenacion)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=estanteria
+comment2.target=void\ pintarArray(int[])
+comment3.params=estanteria\ idABorrar
+comment3.target=int[]\ eliminarProducto(int[],\ int)
+comment4.params=estanteria\ nuevoId
+comment4.target=int[]\ insertarOrdenado(int[],\ int)
+numComments=5
