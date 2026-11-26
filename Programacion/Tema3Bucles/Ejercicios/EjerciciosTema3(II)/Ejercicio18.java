@@ -25,26 +25,18 @@ public class Ejercicio18 {
             mayor = b;
         }
         
-        int mcm = 0; //Valor para printear el mínimo común múltiplo
-        
-        int cont = 1; //Empezamos en 1 ya que en 0 siempre daria 0
+        int mcm = 0; 
+        int cont = 1; 
         
         
         do {
             
-            mcm = mayor * cont; //Calculamos el múltiplo actual
+            mcm = mayor * cont; 
             
-            cont++; //Vamos aumentando el múltiplo
-        } while (mcm % a != 0 || mcm % b != 0); //El bucle termine cuando el múltiplo ¡SI! sea divisible entre a y b
+            cont++; 
+        } while (mcm % a != 0 || mcm % b != 0); 
         
-        /*
-         * La operación consiste en esto:
-         *  
-         *      1. Vamos multiplicando el número mayor, ya que nunca la solucíon sera un número mas pequeño que uno de los dos.
-         *      2. Si este numero mayor divido entre los dos = 0, ya lo obtenemos, ese es nuestro mcm.
-         *      3. Sino vamos a seguir multiplicando nuestro mcm, hasta que pueda % a y b y dar == 0.
-         *      
-         */
+        
         
         System.out.println("El mínimo común múltiplo es " + mcm);
     }

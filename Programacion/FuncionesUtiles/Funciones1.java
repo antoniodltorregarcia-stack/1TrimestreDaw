@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author (Tony) 
  * @version (FuncionesUtilesParaCopiar)
  */
-public class Funciones {
+public class Funciones1 {
     
     // Único lector: compartido (static), seguro/interno (private) e inmutable (final)
     private static final Scanner sc = new Scanner(System.in);

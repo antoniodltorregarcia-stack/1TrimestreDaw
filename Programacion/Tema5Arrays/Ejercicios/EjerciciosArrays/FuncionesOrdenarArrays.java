@@ -157,7 +157,10 @@ public class FuncionesOrdenarArrays {
     }
     
     public static int [] eliminarElementoDeArray(int t[], int op) {
-        int aux = 0;
+        
+        
+        
+int aux = 0;
         int elemento = op;
         int posicion = -1;
         for(int i = 0; i < t.length; i++) {
